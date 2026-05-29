@@ -1,0 +1,24 @@
+{
+  "bundle_id": "KEYSTONE_II_SOURCE_GOVERNED_FRAMEWORK_EN_20260520",
+  "language": "en",
+  "official_title_en": "Deep Origin Theory: A Source-Governed Framework for Curvature Response and Cosmological Dynamics",
+  "official_title_ar": "نظرية الأصل العميق: إطار مصدري حاكم لاستجابة الانحناء والديناميك الكوني",
+  "theory_name": "Deep Origin Theory",
+  "claim_position": {
+    "framework_type": "law_bearing_theoretical_line",
+    "response_type": "auditable_response_surfaces",
+    "not_claimed": [
+      "completed_theory_of_everything",
+      "final_observational_cosmology",
+      "post_hoc_data_patch",
+      "learned_emulator",
+      "live_tail_completion"
+    ]
+  },
+  "files": [
+    "README.md",
+    "EDITORIAL_POSITION.md",
+    "MAIN_SCIENTIFIC_PAPER_EN.md",
+    "PUBLICATION_CHECKLIST.md"
+  ]
+}

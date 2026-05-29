@@ -1,0 +1,40 @@
+{
+  "bundle_id": "FOUNDRY_KEYSTONE_II_SOURCE_GOVERNED_FRAMEWORK_20260520",
+  "bundle_type": "public_release_predeposit",
+  "scope": "keystone_ii_publication_layer",
+  "official_title_en": "نظرية الأصل العميق: A Source-Governed Framework for Curvature Response and Cosmological Dynamics",
+  "official_title_ar": "نظرية الأصل العميق: إطار مصدري حاكم لاستجابة الانحناء والديناميك الكوني",
+  "claim_position": {
+    "framework_type": "law_bearing_theoretical_line",
+    "response_type": "auditable_response_surfaces",
+    "not_claimed": [
+      "completed_theory_of_everything",
+      "final_observational_cosmology",
+      "post_hoc_data_patch",
+      "learned_emulator",
+      "live_tail_completion"
+    ]
+  },
+  "files": [
+    {
+      "path": "MAIN_SCIENTIFIC_PAPER_AR.md",
+      "role": "main_scientific_paper_draft"
+    },
+    {
+      "path": "README.md",
+      "role": "bundle_readme"
+    },
+    {
+      "path": "PUBLICATION_CHECKLIST.md",
+      "role": "external_publication_readiness_checklist"
+    },
+    {
+      "path": "EDITORIAL_POSITION.md",
+      "role": "final_editorial_positioning"
+    }
+  ],
+  "notes": [
+    "This bundle is reader-facing and excludes workshop handoff packets.",
+    "The scope/open-gap register is currently held outside the final public bundle."
+  ]
+}

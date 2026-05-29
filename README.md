@@ -2,9 +2,22 @@
 
 **Deep Origin Theory** is presented publicly as a source-governed generative theory of cosmology.
 
-This repository is the public umbrella for the first approved outward wave.
+This repository is the public umbrella for the approved outward wave in its full bilingual form.
 
-## Current Public Wave
+## Public Release Wings
+
+- [English release wing](ENGLISH/)
+- [Arabic release wing](ARABIC/)
+
+Each wing carries the same five final bundle families:
+
+- `AUTHOR_AND_THEORY_FRONTMATTER_20260527`
+- `Keystone_I_The_First_Bearing_20260429`
+- `Keystone_II_Source_Governed_Framework_20260520`
+- `DEEP_ORIGIN_PUBLIC_CORE_20260528`
+- `FIRSTLIGHT_PUBLIC_FACE_20260528`
+
+## Satellite Repositories
 
 - [Keystone I: The First Bearing](https://github.com/osamaalhulays/keystone-i-the-first-bearing)
 - [Deep Origin: Public Core](https://github.com/osamaalhulays/deep-origin-public-core)

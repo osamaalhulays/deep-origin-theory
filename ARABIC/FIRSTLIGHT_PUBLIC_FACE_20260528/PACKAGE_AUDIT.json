@@ -1,0 +1,10 @@
+{
+  "package_id": "FIRSTLIGHT_PUBLIC_FACE_AR_20260528",
+  "language": "ar",
+  "audited_for": [
+    "public_readability",
+    "timestamp_guard",
+    "tail_exclusion"
+  ],
+  "status": "clean_for_final_local_bundle"
+}

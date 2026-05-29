@@ -1,0 +1,26 @@
+{
+  "bundle_id": "KEYSTONE_I_THE_FIRST_BEARING_AR_20260429",
+  "language": "ar",
+  "official_title_en": "Keystone I: The First Bearing",
+  "official_title_ar": "المرتكز الأول: الحمل الأول",
+  "theory_name": "نظرية الأصل العميق",
+  "claim_position": {
+    "result_type": "bridge_admitted_response_unification",
+    "cosmology_held_closed": true,
+    "not_claimed": [
+      "completed_cosmology",
+      "predictive_Hz_law",
+      "DL_model_vector",
+      "Pantheon_plus_closure",
+      "BAO_or_CMB_completion",
+      "final_theory_of_everything"
+    ]
+  },
+  "files": [
+    "README.md",
+    "EDITORIAL_POSITION.md",
+    "MAIN_SCIENTIFIC_PAPER_AR.md",
+    "CLAIM_CEILING_CARD.md",
+    "PUBLICATION_CHECKLIST.md"
+  ]
+}

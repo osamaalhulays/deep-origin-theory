@@ -1,14 +1,24 @@
-# Deep Origin Theory / First Public Wave
+# Deep Origin Theory / Public Wave
 
-This public wave is intentionally bounded.
+This public wave is intentionally bounded and now mirrored in two equal release wings.
 
 ## Included
 
-- the author-facing and theory layer
-- Keystone I as a bounded proof-bearing publication line
-- Deep Origin as a public core
-- Firstlight as a public face
-- the Arabic-facing Keystone II bundle
+### English release wing
+
+- `AUTHOR_AND_THEORY_FRONTMATTER_20260527`
+- `Keystone_I_The_First_Bearing_20260429`
+- `Keystone_II_Source_Governed_Framework_20260520`
+- `DEEP_ORIGIN_PUBLIC_CORE_20260528`
+- `FIRSTLIGHT_PUBLIC_FACE_20260528`
+
+### Arabic release wing
+
+- `AUTHOR_AND_THEORY_FRONTMATTER_20260527`
+- `Keystone_I_The_First_Bearing_20260429`
+- `Keystone_II_Source_Governed_Framework_20260520`
+- `DEEP_ORIGIN_PUBLIC_CORE_20260528`
+- `FIRSTLIGHT_PUBLIC_FACE_20260528`
 
 ## Not Included
 

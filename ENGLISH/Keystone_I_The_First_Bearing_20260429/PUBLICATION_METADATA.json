@@ -1,0 +1,26 @@
+{
+  "package_id": "DEEP_ORIGIN_THEORY_KEYSTONE_I_FIRST_BEARING_20260429",
+  "title": "Keystone I: The First Bearing",
+  "subtitle": "Bridge-Admitted Response Unification in Deep Origin Theory",
+  "public_release_label": "Deep Origin Theory / Keystone I: bridge-admitted response unification with cosmology held closed.",
+  "article_type": "long_technical_preprint",
+  "claim_scope": "bridge_admitted_response_unification",
+  "publish_now": true,
+  "publish_as_completed_cosmology": false,
+  "cosmology_status": "held_closed",
+  "next_live_tail_marker": "primitive_freeze_cosmology_program",
+  "recommended_route": [
+    "preprint_first",
+    "long_technical_manuscript",
+    "journal_submission_after_circulation"
+  ],
+  "keywords": [
+    "Deep Origin Theory",
+    "Keystone I",
+    "response unification",
+    "bridge admission",
+    "same-parent layer",
+    "common-response basis",
+    "bounded publication scope"
+  ]
+}

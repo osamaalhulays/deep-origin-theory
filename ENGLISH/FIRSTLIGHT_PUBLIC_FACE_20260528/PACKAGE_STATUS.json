@@ -1,0 +1,22 @@
+{
+  "package_id": "FIRSTLIGHT_PUBLIC_FACE_20260528",
+  "status": "public_face_candidate_ready_for_approval_gate",
+  "title": "Firstlight Public Face",
+  "umbrella": "Deep Origin Theory",
+  "mode": "future_facing_identity_snapshot",
+  "included_face": [
+    "Firstlight",
+    "Firstlight I",
+    "Firstlight II"
+  ],
+  "excluded_live_tail": [
+    "class_level_authority_opening",
+    "consumer_bridge_materialization",
+    "transport_legitimacy_closure",
+    "governed_container_opening",
+    "Firstlight III_as_closed_present_result"
+  ],
+  "publish_as_present_scientific_closure": false,
+  "timestamp_guard": "2026-05-27",
+  "approval_target": "02_جاهز_بانتظار_اعتماد_نهائي"
+}
