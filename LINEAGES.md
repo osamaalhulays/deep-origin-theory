@@ -1,4 +1,4 @@
-# Foundry Cosmology Lineages
+# Deep Origin Theory Lineages
 
 ## Keystone
 
@@ -23,7 +23,7 @@
 
 Public-facing naming uses the canonical external set first:
 
-- Foundry Cosmology
+- Deep Origin Theory
 - Keystone
 - Deep Origin
 - Firstlight
