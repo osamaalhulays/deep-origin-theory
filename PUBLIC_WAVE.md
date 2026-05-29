@@ -12,11 +12,11 @@ This public wave is intentionally bounded.
 
 ## Not Included
 
-- unfinished Keystone workshop fronts
-- live Deep Origin tails beyond the public core
-- unfinished Firstlight authority tails
+- unfinished Keystone development lines
+- Deep Origin extensions beyond the approved public core
+- unfinished Firstlight extensions
 - present-tense cosmology completion claims
-- workshop packets and internal governance chains
+- internal governance records and unresolved support material
 
 ## Reading Rule
 

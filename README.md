@@ -25,7 +25,7 @@ This repository carries only outward-facing naming and approval-cleared material
 
 It does not carry:
 
-- workshop codenames
+- historical internal labels
 - rank labels
 - unfinished development chains
-- live-tail overclaim
+- overclaim beyond the approved public boundary

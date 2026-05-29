@@ -28,4 +28,4 @@ Public-facing naming uses the canonical external set first:
 - Deep Origin
 - Firstlight
 
-Historical workshop names remain outside the first public surface.
+Historical internal names remain outside the first public surface.
