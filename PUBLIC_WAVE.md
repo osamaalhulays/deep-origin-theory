@@ -1,10 +1,10 @@
-# Foundry Cosmology / First Public Wave
+# Deep Origin Theory / First Public Wave
 
 This public wave is intentionally bounded.
 
 ## Included
 
-- the author-facing and masterbrand layer
+- the author-facing and theory layer
 - Keystone I as a bounded proof-bearing publication line
 - Deep Origin as a public core
 - Firstlight as a public face
