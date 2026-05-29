@@ -1,15 +1,15 @@
-# Foundry Cosmology
+# Deep Origin Theory
 
-**Foundry Cosmology** is the outward masterbrand for a governed research program in gravitation and cosmology.
+**Deep Origin Theory** is presented publicly as a source-governed generative theory of cosmology.
 
 This repository is the public umbrella for the first approved outward wave.
 
 ## Current Public Wave
 
-- [Keystone I: The First Bearing](https://github.com/osamaalhulays/foundry-keystone-i-the-first-bearing)
-- [Deep Origin: Public Core](https://github.com/osamaalhulays/foundry-deep-origin-public-core)
-- [Firstlight: Public Face](https://github.com/osamaalhulays/foundry-firstlight-public-face)
-- [Keystone II Arabic Bundle](https://github.com/osamaalhulays/foundry-keystone-ii-source-governed-framework-ar)
+- [Keystone I: The First Bearing](https://github.com/osamaalhulays/keystone-i-the-first-bearing)
+- [Deep Origin: Public Core](https://github.com/osamaalhulays/deep-origin-public-core)
+- [Firstlight: Public Face](https://github.com/osamaalhulays/firstlight-public-face)
+- [Keystone II Arabic Bundle](https://github.com/osamaalhulays/keystone-ii-source-governed-framework-ar)
 
 ## Public Lineages
 
