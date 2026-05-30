@@ -95,6 +95,18 @@ Its current status elsewhere in the live workspace is narrower:
 
 So it should not be listed as a primary Keystone I source merely because it is useful elsewhere in the broader theory work.
 
+## Outward related-resource acknowledgment
+
+Even though it is not a primary Keystone I source authority, the following related work may still be acknowledged outward as supportive mathematical context:
+
+- Dr. Mohamed Haj Yousef
+- `Dual-Time Topological Geometry and the Emergence of Temporal Asymmetry in Non-Equilibrium Dynamics`
+- DOI: `10.3390/math14050853`
+
+Recommended outward relation type when a platform offers a related-resource field:
+
+- `References`
+
 ## Editorial boundary
 
 This source layer is intentionally exact rather than generous.

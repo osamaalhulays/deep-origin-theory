@@ -10,6 +10,10 @@ It distinguishes five things clearly:
 - external literature anchors that are actually surfaced in the package
 - material that is named but not yet elevated into a source or claim
 
+It also distinguishes a sixth thing:
+
+- outward external resources that are suitable for acknowledgment or related-resource linkage without being promoted into direct source authority
+
 ## Current hardening status
 
 At this stage, all five English final bundles have real local source layers.
@@ -19,6 +23,19 @@ At this stage, all five English final bundles have real local source layers.
 - `Keystone_II_Source_Governed_Framework_20260520`
 - `DEEP_ORIGIN_PUBLIC_CORE_20260528`
 - `FIRSTLIGHT_PUBLIC_FACE_20260528`
+
+## Shared outward acknowledgment register
+
+- `EXTERNAL_RESOURCES_REGISTER.md`
+
+Current shared acknowledged external resource:
+
+- Dr. Mohamed Haj Yousef, `Dual-Time Topological Geometry and the Emergence of Temporal Asymmetry in Non-Equilibrium Dynamics`
+- DOI: `10.3390/math14050853`
+- outward relation recommendation: `References`
+
+This register supports gratitude and related-resource linkage.
+It does not override the stricter source-authority rules inside each package.
 
 ## Bundle map
 
@@ -37,6 +54,11 @@ Nature of the package:
 External scientific bibliography:
 
 - none surfaced in this package
+
+Acknowledged external resource posture:
+
+- may acknowledge the shared external mathematical arm in `EXTERNAL_RESOURCES_REGISTER.md`
+- not as direct source authority, but as theory-wide supportive context
 
 Hardening note:
 
@@ -60,6 +82,11 @@ External scientific bibliography:
 - limited but real
 - three response-language anchors are surfaced explicitly
 
+Acknowledged external resource posture:
+
+- may acknowledge the shared external mathematical arm in `EXTERNAL_RESOURCES_REGISTER.md`
+- not as a primary Keystone I source authority
+
 ### `Keystone_II_Source_Governed_Framework_20260520`
 
 Source layer file:
@@ -75,6 +102,11 @@ External scientific bibliography:
 
 - none surfaced explicitly in the present package
 
+Acknowledged external resource posture:
+
+- may acknowledge the shared external mathematical arm in `EXTERNAL_RESOURCES_REGISTER.md`
+- not as direct authority for the governing action / closure / observable chain
+
 ### `DEEP_ORIGIN_PUBLIC_CORE_20260528`
 
 Source layer file:
@@ -89,6 +121,11 @@ Nature of the package:
 External scientific bibliography:
 
 - none surfaced explicitly in the present package
+
+Acknowledged external resource posture:
+
+- may acknowledge the shared external mathematical arm in `EXTERNAL_RESOURCES_REGISTER.md`
+- not as direct source authority for the bounded public core
 
 Hardening note:
 
@@ -109,6 +146,11 @@ Nature of the package:
 External scientific bibliography:
 
 - none surfaced explicitly in the present package
+
+Acknowledged external resource posture:
+
+- may acknowledge the shared external mathematical arm in `EXTERNAL_RESOURCES_REGISTER.md`
+- not as direct source authority for present-tense cosmology completion
 
 Hardening note:
 

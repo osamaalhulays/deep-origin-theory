@@ -2,6 +2,10 @@
 
 This wing contains the approved outward-facing English publication bundles.
 
+Source visibility master:
+
+- `SOURCE_LAYER_INDEX.md`
+
 Included bundles:
 
 - `AUTHOR_AND_THEORY_FRONTMATTER_20260527`

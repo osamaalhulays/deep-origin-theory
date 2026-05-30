@@ -80,6 +80,18 @@ The following may belong to the larger program context, but they are not surface
 
 They may matter elsewhere in the program, but they are not what makes this public-face package lawful on its own terms.
 
+## Outward related-resource acknowledgment
+
+The following related work may still be acknowledged outward as supportive mathematical context for the broader theory line:
+
+- Dr. Mohamed Haj Yousef
+- `Dual-Time Topological Geometry and the Emergence of Temporal Asymmetry in Non-Equilibrium Dynamics`
+- DOI: `10.3390/math14050853`
+
+Recommended outward relation type when a platform offers a related-resource field:
+
+- `References`
+
 ## Editorial boundary
 
 This package should be read as the outward horizon of the theory line, not as the place where present-tense cosmology completion is documented.

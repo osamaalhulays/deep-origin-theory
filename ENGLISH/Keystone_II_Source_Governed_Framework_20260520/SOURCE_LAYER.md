@@ -89,6 +89,18 @@ In the current live workspace it is treated as:
 
 not as the direct source of the governing action, the frozen closure relation, or the response-to-observable chain asserted by Keystone II.
 
+## Outward related-resource acknowledgment
+
+The following related work may still be acknowledged outward as supportive mathematical context:
+
+- Dr. Mohamed Haj Yousef
+- `Dual-Time Topological Geometry and the Emergence of Temporal Asymmetry in Non-Equilibrium Dynamics`
+- DOI: `10.3390/math14050853`
+
+Recommended outward relation type when a platform offers a related-resource field:
+
+- `References`
+
 ## Editorial boundary
 
 This source layer should be read as a hardened local-source map.

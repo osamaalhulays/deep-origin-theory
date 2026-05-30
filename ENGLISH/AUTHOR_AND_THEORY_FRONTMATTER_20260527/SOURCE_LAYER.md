@@ -57,6 +57,20 @@ No technical artifact family is cited here as direct source authority.
 That absence is real, not a missing section.
 This package is an identity-and-frontmatter layer, not a scientific result layer.
 
+## Outward related-resource acknowledgment
+
+This package may still acknowledge the shared external mathematical resource recorded in:
+
+- `../EXTERNAL_RESOURCES_REGISTER.md`
+
+At the current stage, that means:
+
+- Dr. Mohamed Haj Yousef
+- `Dual-Time Topological Geometry and the Emergence of Temporal Asymmetry in Non-Equilibrium Dynamics`
+- DOI: `10.3390/math14050853`
+
+The correct outward use here is acknowledgment or related-resource linkage only, not direct source authority.
+
 ## Not direct source authority here
 
 The following may belong to the larger program context, but they are not what this package is built to certify:
