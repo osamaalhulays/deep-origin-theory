@@ -5,19 +5,19 @@ This repository is the current public GitHub entry for Deep Origin Theory.
 ## Public entry points
 
 1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_English_Packet_20260604.zip?download=1)
+   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20548844/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
 
 2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_Arabic_Packet_20260604.zip?download=1)
+   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20548844/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
 
 ## Record
 
-Zenodo DOI for the current packet record:
+Zenodo concept DOI for the packet family:
 
-- [`10.5281/zenodo.20542922`](https://doi.org/10.5281/zenodo.20542922)
+- [`10.5281/zenodo.20542921`](https://doi.org/10.5281/zenodo.20542921)
 
 ## Packet shape
 
