@@ -1,6 +1,6 @@
 # Deep Origin Theory
 
-This repository is the current public GitHub mirror for Deep Origin Theory.
+This repository is the current public GitHub entry for Deep Origin Theory.
 
 ## Public entry points
 
@@ -26,7 +26,7 @@ stage-separated:
 
 - `A` = pre-Rank 9 foundation
 - `B` = current Rank 9 public wave
-- `C` = current bounded cluster dossier
+- `C` = current cluster dossier
 
 ## Boundary
 
