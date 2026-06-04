@@ -5,10 +5,10 @@ This repository is the current public GitHub mirror for Deep Origin Theory.
 ## Public entry points
 
 1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_English_Master_Packet_20260604.zip?download=1)
+   [`Deep_Origin_Theory_English_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_English_Packet_20260604.zip?download=1)
 
 2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_Arabic_Mirror_Packet_20260604.zip?download=1)
+   [`Deep_Origin_Theory_Arabic_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_Arabic_Packet_20260604.zip?download=1)
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
