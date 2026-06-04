@@ -1,60 +1,36 @@
-# Deep Origin Theory Sovereign Packet Pair
+# Deep Origin Theory
 
-This repository mirrors the current sovereign public packet pair for Deep Origin Theory.
+This repository is the current public GitHub mirror for Deep Origin Theory.
 
-- English sovereign packet:
-  [`Deep_Origin_Theory_English_Master_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_English_Master_Packet_20260604.zip?download=1)
-- Arabic mirror packet:
-  [`Deep_Origin_Theory_Arabic_Mirror_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_Arabic_Mirror_Packet_20260604.zip?download=1)
+## Public entry points
 
-Zenodo record:
+1. English packet  
+   [`Deep_Origin_Theory_English_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_English_Packet_20260604.zip?download=1)
 
-- DOI: [`10.5281/zenodo.20542922`](https://doi.org/10.5281/zenodo.20542922)
+2. Arabic packet  
+   [`Deep_Origin_Theory_Arabic_Packet_20260604.zip`](https://zenodo.org/records/20542922/files/Deep_Origin_Theory_Arabic_Packet_20260604.zip?download=1)
 
-## What this repository is
+3. Standalone paper  
+   [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
 
-This repository is a GitHub mirror of the same outward packet identity used for:
+## Record
 
-- archival deposit,
-- external review,
-- and later public reference.
+Zenodo DOI for the current packet record:
 
-It is intentionally kept as one clean pair rather than split into a reviewer-only
-surface and a separate public surface.
+- [`10.5281/zenodo.20542922`](https://doi.org/10.5281/zenodo.20542922)
 
-## Packet structure
+## Packet shape
 
-The active outward identity remains a **pair**, not a split:
-
-- an English master packet,
-- and an Arabic mirror packet.
-
-Inside the pair, the shelves remain visibly stage-separated:
+The English and Arabic packets keep the current outward material visibly
+stage-separated:
 
 - `A` = pre-Rank 9 foundation
 - `B` = current Rank 9 public wave
-- `C` = current bounded Kareeb dossier
+- `C` = current bounded cluster dossier
 
-The Arabic packet mirrors the same shelves and the same claim limits. It does
-not add a higher claim layer of its own.
+## Boundary
 
-## Important boundary
+These packets present the current outward shelves as they stand now.
 
-This mirror does **not** claim:
-
-- that `A`, `B`, and `C` have been scientifically fused,
-- that all live debts are closed,
-- that full cosmology and external validation are complete,
-- or that the current program has already reached its ceiling.
-
-The packets are assembled so a serious reader can focus on the bounded shelves
-and not waste effort re-listing deferred rows that are already declared openly.
-
-## Related record
-
-The standalone bounded paper remains independently citable at Zenodo:
-
-- [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
-
-It is also included as part of the sovereign packet pair, but it retains its own
-paper-level citation role.
+They do not claim that every later frontier is closed, that full cosmology is
+complete, or that the wider program has already reached its ceiling.
