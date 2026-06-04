@@ -1,44 +1,70 @@
-# Deep Origin Theory
+# Deep Origin Theory Sovereign Packet Pair
 
-**Deep Origin Theory** is presented publicly as a source-governed generative theory of cosmology.
+This repository mirrors the current sovereign public packet pair for Deep Origin Theory.
 
-This repository is the public umbrella for the approved outward wave in its full bilingual form.
+- English sovereign packet:
+  [`Deep_Origin_Theory_English_Master_Packet_20260604.zip`](Deep_Origin_Theory_English_Master_Packet_20260604.zip)
+- Arabic mirror packet:
+  [`Deep_Origin_Theory_Arabic_Mirror_Packet_20260604.zip`](Deep_Origin_Theory_Arabic_Mirror_Packet_20260604.zip)
 
-## Public Release Wings
+Zenodo record:
 
-- [English release wing](ENGLISH/)
-- [Arabic release wing](ARABIC/)
+- DOI: [`10.5281/zenodo.20542922`](https://doi.org/10.5281/zenodo.20542922)
 
-Each wing carries the same five final bundle families:
+## What this repository is
 
-- `AUTHOR_AND_THEORY_FRONTMATTER_20260527`
-- `Keystone_I_The_First_Bearing_20260429`
-- `Keystone_II_Source_Governed_Framework_20260520`
-- `DEEP_ORIGIN_PUBLIC_CORE_20260528`
-- `FIRSTLIGHT_PUBLIC_FACE_20260528`
+This repository is a GitHub mirror of the same outward packet identity used for:
 
-## Satellite Repositories
+- archival deposit,
+- external review,
+- and later public reference.
 
-- [Keystone I: The First Bearing](https://github.com/osamaalhulays/keystone-i-the-first-bearing)
-- [Deep Origin: Public Core](https://github.com/osamaalhulays/deep-origin-public-core)
-- [Firstlight: Public Face](https://github.com/osamaalhulays/firstlight-public-face)
-- [Keystone II Arabic Bundle](https://github.com/osamaalhulays/keystone-ii-source-governed-framework-ar)
+It is intentionally kept as one clean pair rather than split into a reviewer-only
+surface and a separate public surface.
 
-## Public Lineages
+## Packet structure
 
-- **Keystone**: the first proof-bearing line
-- **Deep Origin**: the deep-source line
-- **Firstlight**: the cosmology-facing line
+### English Master Packet
 
-See [LINEAGES.md](LINEAGES.md) for the lineage sequence and [PUBLIC_WAVE.md](PUBLIC_WAVE.md) for the release posture.
+Directory:
 
-## Public-Facing Rule
+- [`Deep_Origin_Theory_English_Master_Packet_20260604/`](Deep_Origin_Theory_English_Master_Packet_20260604/)
 
-This repository carries only outward-facing naming and approval-cleared material.
+Reading order inside the packet:
 
-It does not carry:
+1. `00_READ_FIRST/START_HERE_FIRST.md`
+2. `00_READ_FIRST/REQUESTED_REVIEW_FOCUS.md`
+3. `00_READ_FIRST/DEFERRED_SCOPE_AND_ACTIVE_DEBTS.md`
+4. `01_A_PreRank9`
+5. `02_B_Rank9`
+6. `03_C_Kareeb`
 
-- historical internal labels
-- rank labels
-- unfinished development chains
-- overclaim beyond the approved public boundary
+### Arabic Mirror Packet
+
+Directory:
+
+- [`Deep_Origin_Theory_Arabic_Mirror_Packet_20260604/`](Deep_Origin_Theory_Arabic_Mirror_Packet_20260604/)
+
+Its function is to mirror the same scientific shelves and the same claim limits
+for Arabic readers. It does not add a higher claim layer of its own.
+
+## Important boundary
+
+This mirror does **not** claim:
+
+- that `A`, `B`, and `C` have been scientifically fused,
+- that all live debts are closed,
+- that full cosmology and external validation are complete,
+- or that the current program has already reached its ceiling.
+
+The packets are assembled so a serious reader can focus on the bounded shelves
+and not waste effort re-listing deferred rows that are already declared openly.
+
+## Related record
+
+The standalone bounded paper remains independently citable at Zenodo:
+
+- [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
+
+It is also included as part of the sovereign packet pair, but it retains its own
+paper-level citation role.
