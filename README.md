@@ -2,13 +2,11 @@
 
 This repository is the current public GitHub entry for Deep Origin Theory.
 
-## Publish Gate
+## Current Record
 
-This README has been stamped with the current Zenodo version values and is ready for the next GitHub push.
+Latest public packet record:
 
-Previous public packet record before this refresh:
-
-- [`10.5281/zenodo.20575351`](https://doi.org/10.5281/zenodo.20575351)
+- [`10.5281/zenodo.20615677`](https://doi.org/10.5281/zenodo.20615677)
 
 Stable concept DOI for the packet family:
 
@@ -29,26 +27,24 @@ It argues for a different meaning of **everything**:
 Inside that grammar, `Keystone I` carries a bounded
 `Bridge-Admitted Response Unification` result rather than a slogan alone.
 
+## What the current packet pair makes visible
+
+- one explicit reviewer route from front door to evidence
+- one bounded bridge/unification surface
+- one row-auditable `NGC0247` benchmark route
+- one Arabic packet that now preserves full-depth structural parity with the English packet
+- one stage-separated cluster dossier with explicit claim boundaries
+
 ## Public entry points
 
 1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20614476/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20615677/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
 
 2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20614476/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20615677/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
-
-## Record
-
-Latest published Zenodo packet record:
-
-- [`10.5281/zenodo.20614476`](https://doi.org/10.5281/zenodo.20614476)
-
-Stable concept DOI for the packet family:
-
-- [`10.5281/zenodo.20542921`](https://doi.org/10.5281/zenodo.20542921)
 
 ## Packet shape
 
@@ -59,21 +55,9 @@ stage-separated:
 - `B` = current Rank 9 public wave
 - `C` = current cluster dossier
 
-## Why this may matter
-
-The packet is not only:
-
-- one bounded bridge,
-- one named witness,
-- or one more anti-dark-matter posture.
-
-Its stronger move is that it treats lawful role separation as part of physics
-itself. Not everything that appears in one explanatory scene is automatically
-the same kind of physical thing.
-
 ## Boundary
 
 These packets present the current outward shelves as they stand now.
 
-They do not claim that every later frontier is closed, that full cosmology is
-complete, or that the wider program has already reached its ceiling.
+They do not present final cosmology, a full `L0` opening, a final `MACS1206`
+ascent, or a final cross-shelf `Xi` identification.
