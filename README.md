@@ -12,6 +12,15 @@ Stable concept DOI for the packet family:
 
 - [`10.5281/zenodo.20542921`](https://doi.org/10.5281/zenodo.20542921)
 
+## GitHub / Zenodo topology
+
+- Zenodo is the archive home of the current English/Arabic packet pair.
+- This repository is the canonical GitHub mirror for that packet pair.
+- [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
+  remains public as a bounded standalone paper-level surface.
+- Older component repositories may still appear on GitHub, but they are kept
+  for traceability rather than treated as parallel current packet families.
+
 At its conceptual center, the project is not trying to become one more
 "theory of everything" by gathering more mechanisms into one crowded story.
 It argues for a different meaning of **everything**:
@@ -46,6 +55,14 @@ Inside that grammar, `Keystone I` carries a bounded
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
+
+## Retained component repositories
+
+- [`Deep Origin: Public Core`](https://github.com/osamaalhulays/deep-origin-public-core)
+- [`Firstlight: Public Face`](https://github.com/osamaalhulays/firstlight-public-face)
+- [`Keystone II Arabic Bundle`](https://github.com/osamaalhulays/keystone-ii-source-governed-framework-ar)
+
+These remain visible on GitHub as bounded earlier component surfaces.
 
 ## Packet shape
 
