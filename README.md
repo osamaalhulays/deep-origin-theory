@@ -6,7 +6,7 @@ This repository is the current public GitHub entry for Deep Origin Theory.
 
 Latest public packet record:
 
-- [`10.5281/zenodo.20615677`](https://doi.org/10.5281/zenodo.20615677)
+- [`10.5281/zenodo.20618313`](https://doi.org/10.5281/zenodo.20618313)
 
 Stable concept DOI for the packet family:
 
@@ -32,16 +32,17 @@ Inside that grammar, `Keystone I` carries a bounded
 - one explicit reviewer route from front door to evidence
 - one bounded bridge/unification surface
 - one row-auditable `NGC0247` benchmark route
+- one explicit scientific lineage-and-credits note
 - one Arabic packet that now preserves full-depth structural parity with the English packet
 - one stage-separated cluster dossier with explicit claim boundaries
 
 ## Public entry points
 
 1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20615677/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20618313/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
 
 2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20615677/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20618313/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
