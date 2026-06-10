@@ -1,6 +1,7 @@
 # Deep Origin Theory
 
-This repository is the current public GitHub entry for Deep Origin Theory.
+This repository is the canonical GitHub mirror for the current bilingual public
+review packet of Deep Origin Theory.
 
 ## Current Record
 
@@ -38,9 +39,9 @@ Inside that grammar, `Keystone I` carries a bounded
 
 ## What the current packet pair makes visible
 
-- one explicit reviewer route from front door to evidence
+- one explicit reviewer-to-evidence route
 - one bounded bridge/unification surface
-- one row-auditable `NGC0247` benchmark route
+- one row-auditable `NGC0247/QUMOND` benchmark route
 - one explicit scientific lineage-and-credits note
 - one Arabic packet that now preserves full-depth structural parity with the English packet
 - one stage-separated cluster dossier with explicit claim boundaries
@@ -77,5 +78,5 @@ stage-separated:
 
 These packets present the current outward shelves as they stand now.
 
-They do not present final cosmology, a full `L0` opening, a final `MACS1206`
+They do not present completed cosmology, a full `L0` opening, a final `MACS1206`
 ascent, or a final cross-shelf `Xi` identification.
