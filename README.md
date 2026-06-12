@@ -7,7 +7,7 @@ review packet of Deep Origin Theory.
 
 Latest public packet record:
 
-- [`10.5281/zenodo.20618313`](https://doi.org/10.5281/zenodo.20618313)
+- [`10.5281/zenodo.20672558`](https://doi.org/10.5281/zenodo.20672558)
 
 Stable concept DOI for the packet family:
 
@@ -22,9 +22,8 @@ Stable concept DOI for the packet family:
 - Older component repositories may still appear on GitHub, but they are kept
   for traceability rather than treated as parallel current packet families.
 
-At its conceptual center, the project is not trying to become one more
-"theory of everything" by gathering more mechanisms into one crowded story.
-It argues for a different meaning of **everything**:
+At its conceptual center, the project treats wider synthesis as something that
+must be earned through separation rather than asserted in advance:
 
 - first separate parent-source,
 - response carrier,
@@ -41,7 +40,7 @@ Inside that grammar, `Keystone I` carries a bounded
 
 - one explicit reviewer-to-evidence route
 - one bounded bridge/unification surface
-- one row-auditable `NGC0247/QUMOND` benchmark route
+- one reproducible and row-auditable `NGC0247/QUMOND` benchmark route
 - one explicit scientific lineage-and-credits note
 - one Arabic packet that now preserves full-depth structural parity with the English packet
 - one stage-separated cluster dossier with explicit claim boundaries
@@ -49,10 +48,10 @@ Inside that grammar, `Keystone I` carries a bounded
 ## Public entry points
 
 1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20618313/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20672558/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
 
 2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20618313/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
+   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20672558/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
 
 3. Standalone paper  
    [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
