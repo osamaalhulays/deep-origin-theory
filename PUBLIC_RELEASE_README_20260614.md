@@ -78,7 +78,7 @@ This release provides:
 - an Arabic mirror packet aligned to the same public evidence lane
 - a bounded clean-front `MOND/QUMOND` triad court object
 - a first non-toy `G4` crossing object
-- Pavel `PAYLOAD_B` intake and diagnostic objects
+- author-supplied `PAYLOAD_B` receipt and diagnostic objects
 - separate public verification helper packages
 
 ## What this release does not claim

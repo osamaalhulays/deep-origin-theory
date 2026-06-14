@@ -9,24 +9,24 @@
 [9/33] Auditing the second named fixed-QUMOND witness
 [10/33] Probing the MACS1206 public-source replay contract
 [11/33] Replaying the first non-toy G4 NGC4214 crossing object
-[12/33] Probing the Pavel PAYLOAD_B intake receipt object
-[13/33] Probing the Pavel 49-galaxy gbar diagnostic normalization object
-[14/33] Probing the Pavel 49-galaxy rowwise comparison admissibility object
-[15/33] Probing the Pavel NGC1313 first clean empirical rowcase object
-[16/33] Probing the Pavel NGC2541 second clean empirical rowcase object
-[17/33] Probing the Pavel NGC7793 third clean empirical rowcase object
-[18/33] Probing the Pavel NGC3992 fourth clean empirical rowcase object
-[19/33] Probing the Pavel named front-4 structure object
-[20/33] Probing the Pavel LVHIS077 fifth clean empirical rowcase object
-[21/33] Probing the Pavel named front-5 structure object
-[22/33] Probing the Pavel LVHIS072 sixth clean empirical rowcase object
-[23/33] Probing the Pavel named front-6 structure object
-[24/33] Probing the Pavel LVHIS011 seventh clean empirical rowcase object
-[25/33] Probing the Pavel named front-7 structure object
-[26/33] Probing the Pavel LVHIS055 eighth clean-first boundary rowcase object
-[27/33] Probing the Pavel front-7 maximal all-positive boundary object
-[28/33] Probing the Pavel clean-first isolated puncture topology object
-[29/33] Probing the Pavel clean-first reserve structure object
+[12/33] Probing the author-supplied `PAYLOAD_B` receipt object
+[13/33] Probing the author-supplied 49-galaxy gbar diagnostic normalization object
+[14/33] Probing the author-supplied 49-galaxy rowwise comparison admissibility object
+[15/33] Probing the author-supplied NGC1313 first clean empirical rowcase object
+[16/33] Probing the author-supplied NGC2541 second clean empirical rowcase object
+[17/33] Probing the author-supplied NGC7793 third clean empirical rowcase object
+[18/33] Probing the author-supplied NGC3992 fourth clean empirical rowcase object
+[19/33] Probing the author-supplied named front-4 structure object
+[20/33] Probing the author-supplied LVHIS077 fifth clean empirical rowcase object
+[21/33] Probing the author-supplied named front-5 structure object
+[22/33] Probing the author-supplied LVHIS072 sixth clean empirical rowcase object
+[23/33] Probing the author-supplied named front-6 structure object
+[24/33] Probing the author-supplied LVHIS011 seventh clean empirical rowcase object
+[25/33] Probing the author-supplied named front-7 structure object
+[26/33] Probing the author-supplied LVHIS055 eighth clean-first boundary rowcase object
+[27/33] Probing the author-supplied front-7 maximal all-positive boundary object
+[28/33] Probing the author-supplied clean-first isolated puncture topology object
+[29/33] Probing the author-supplied clean-first reserve structure object
 [30/33] Probing the bounded MOND/QUMOND clean-front triad Grade-2 court object
 [31/33] Probing the G10 external-methods and G7 review-ledger stack
 [32/33] Replaying the selected G1 runner from a standalone cold packet copy
@@ -35,7 +35,7 @@
 Audit complete.
 
 Outputs saved under:
-/var/folders/nx/5ks71px575l48xhm_xc0_s1c0000gn/T//deep_origin_reviewer_audit_uWTYuP
-real 13.73
-user 7.25
-sys 2.08
+/var/folders/nx/5ks71px575l48xhm_xc0_s1c0000gn/T//deep_origin_reviewer_audit_ipeSj6
+real 9.60
+user 7.27
+sys 1.83
