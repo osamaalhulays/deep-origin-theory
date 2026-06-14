@@ -1,81 +1,54 @@
 # Deep Origin Theory
 
-This repository is the canonical GitHub mirror for the current bilingual public
-review packet of Deep Origin Theory.
+This repository is the canonical GitHub mirror for the current public release
+checkpoint of Deep Origin Theory.
 
-## Current Record
+## Current Zenodo record
 
-Latest public packet record:
+Latest public release:
 
-- [`10.5281/zenodo.20672558`](https://doi.org/10.5281/zenodo.20672558)
+- [`10.5281/zenodo.20692304`](https://doi.org/10.5281/zenodo.20692304)
 
-Stable concept DOI for the packet family:
+Stable concept DOI:
 
 - [`10.5281/zenodo.20542921`](https://doi.org/10.5281/zenodo.20542921)
 
-## GitHub / Zenodo topology
+## What this mirror contains
 
-- Zenodo is the archive home of the current English/Arabic packet pair.
-- This repository is the canonical GitHub mirror for that packet pair.
-- [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
-  remains public as a bounded standalone paper-level surface.
-- Older component repositories may still appear on GitHub, but they are kept
-  for traceability rather than treated as parallel current packet families.
+- the current English public packet
+- the current Arabic mirror packet
+- separate `Help Us Verify` support packages
+- official audit transcript and summary files for both languages
+- the frozen public checksum list
 
-At its conceptual center, the project treats wider synthesis as something that
-must be earned through separation rather than asserted in advance:
+The internal goal bank is not part of this mirror.
 
-- first separate parent-source,
-- response carrier,
-- closure,
-- observable route,
-- comparator,
-- and authority;
-- then admit wider synthesis only where that separation survives.
+## Main packets
 
-Inside that grammar, `Keystone I` carries a bounded
-`Bridge-Admitted Response Unification` result rather than a slogan alone.
+1. [`Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip`](https://zenodo.org/records/20692304/files/Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip?download=1)
+2. [`Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip`](https://zenodo.org/records/20692304/files/Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip?download=1)
 
-## What the current packet pair makes visible
+## Separate verification support
 
-- one explicit reviewer-to-evidence route
-- one bounded bridge/unification surface
-- one reproducible and row-auditable `NGC0247/QUMOND` benchmark route
-- one explicit scientific lineage-and-credits note
-- one Arabic packet that now preserves full-depth structural parity with the English packet
-- one stage-separated cluster dossier with explicit claim boundaries
+1. [`Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`](https://zenodo.org/records/20692304/files/Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip?download=1)
+2. [`Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`](https://zenodo.org/records/20692304/files/Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip?download=1)
 
-## Public entry points
+## Official audit records
 
-1. English packet  
-   [`Deep_Origin_Theory_English_Packet_20260605.zip`](https://zenodo.org/records/20672558/files/Deep_Origin_Theory_English_Packet_20260605.zip?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt`](https://zenodo.org/records/20692304/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json`](https://zenodo.org/records/20692304/files/PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt`](https://zenodo.org/records/20692304/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json`](https://zenodo.org/records/20692304/files/PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json?download=1)
 
-2. Arabic packet  
-   [`Deep_Origin_Theory_Arabic_Packet_20260605.zip`](https://zenodo.org/records/20672558/files/Deep_Origin_Theory_Arabic_Packet_20260605.zip?download=1)
+## Public checksums
 
-3. Standalone paper  
-   [`Keystone I: The First Bearing`](https://doi.org/10.5281/zenodo.20465860)
-
-## Retained component repositories
-
-- [`Deep Origin: Public Core`](https://github.com/osamaalhulays/deep-origin-public-core)
-- [`Firstlight: Public Face`](https://github.com/osamaalhulays/firstlight-public-face)
-- [`Keystone II Arabic Bundle`](https://github.com/osamaalhulays/keystone-ii-source-governed-framework-ar)
-
-These remain visible on GitHub as bounded earlier component surfaces.
-
-## Packet shape
-
-The English and Arabic packets keep the current outward material visibly
-stage-separated:
-
-- `A` = pre-Rank 9 foundation
-- `B` = current Rank 9 public wave
-- `C` = current cluster dossier
+- [`PUBLIC_RELEASE_SHA256SUMS_20260614.txt`](https://zenodo.org/records/20692304/files/PUBLIC_RELEASE_SHA256SUMS_20260614.txt?download=1)
 
 ## Boundary
 
-These packets present the current outward shelves as they stand now.
+This release does not claim:
 
-They do not present completed cosmology, a full `L0` opening, a final `MACS1206`
-ascent, or a final cross-shelf `Xi` identification.
+- final cosmic closure
+- completed blind-holdout adjudication
+- whole-family `MOND/QUMOND` defeat
+- finished certification exit
