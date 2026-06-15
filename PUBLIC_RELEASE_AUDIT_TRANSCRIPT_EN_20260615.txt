@@ -1,0 +1,23 @@
+[1/18] Verifying packet-root SHA256 ledger
+[2/18] Verifying inner shelf ledgers for A, B, and C
+[3/18] Rebuilding the current NGC0247 stack
+[4/18] Rebuilding the current NGC0247 row comparator
+[5/18] Rebuilding the NGC0247 parity-ready pilot object
+[6/18] Rebuilding the NGC0247 matched-nuisance policy lock
+[7/18] Replaying the NGC0247 matched-nuisance window
+[8/18] Replaying the NGC0247 executed parity witness scoring shell
+[9/18] Auditing the second named fixed-QUMOND witness
+[10/18] Probing the MACS1206 public-source replay contract
+[11/18] Replaying the first non-toy G4 NGC4214 crossing object
+[12/18] Probing the author-supplied `PAYLOAD_B` receipt object
+[13/18] Probing the author-supplied 49-galaxy gbar diagnostic normalization object
+[14/18] Probing the author-supplied 49-galaxy rowwise comparison admissibility object
+[15/18] Probing the bounded MOND/QUMOND clean-front triad Grade-2 court object
+[16/18] Probing the G10 external-methods and G7 review-ledger stack
+[17/18] Replaying the selected G1 runner from a standalone cold packet copy
+[18/18] Verifying semantic expectations against runtime outputs
+
+Audit complete.
+
+Outputs saved under:
+/var/folders/nx/5ks71px575l48xhm_xc0_s1c0000gn/T//deep_origin_reviewer_audit_52QXjC

@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this public checkpoint, please cite the Zenodo record or the concept DOI and, when relevant, the specific companion surface you relied on."
-title: "Deep Origin Theory Public Checkpoint 2026-06-14"
+title: "Deep Origin Theory Public Checkpoint 2026-06-15"
 type: dataset
 authors:
   - family-names: "Alhulays"
@@ -8,13 +8,13 @@ authors:
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
 url: "https://github.com/osamaalhulays/deep-origin-theory"
-doi: "10.5281/zenodo.20699818"
+doi: "10.5281/zenodo.20707215"
 abstract: >
   Audit-clean bilingual public checkpoint for Deep Origin Theory: a
   source-governed gravitation and cosmology program with bounded
-  MOND/QUMOND comparison surfaces, a direct-author 49-galaxy payload
-  intake, a first non-toy G4 crossing object, and public verification
-  support.
+  MOND/QUMOND comparison surfaces, a direct-author 49-galaxy empirical
+  intake with explicit public-derivative boundary hardening, a first
+  non-toy G4 crossing object, and public verification support.
 keywords:
   - "Deep Origin Theory"
   - "modified gravity"
@@ -24,3 +24,5 @@ keywords:
   - "radial acceleration relation"
   - "blind holdout"
   - "reproducible research"
+  - "data provenance"
+  - "research transparency"

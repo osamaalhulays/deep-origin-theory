@@ -1,0 +1,20 @@
+{
+  "object": "PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260615",
+  "date": "2026-06-15",
+  "packet": "Deep_Origin_Theory_Arabic_Packet_20260605",
+  "command": "env AUTHOR_SUPPLIED_OBS_ZIP='/Users/imac/Downloads/حوارات الذكاء الصناعي/vcirc_obs.zip' AUTHOR_SUPPLIED_BARYONS_ZIP='/Users/imac/Downloads/حوارات الذكاء الصناعي/vcirc_baryons.zip' bash REVIEWER_AUDIT_BUNDLE_V1/RUN_AUDIT_ALL.sh",
+  "status": "completed",
+  "audit_steps_completed": "18/18",
+  "all_checks_pass": true,
+  "packet_root_sha_check": "1816 OK lines",
+  "runtime_seconds": 7.57,
+  "os": "macOS 26.5",
+  "python_version": "Python 3.14.3",
+  "audit_output_directory": "/private/var/folders/nx/5ks71px575l48xhm_xc0_s1c0000gn/T/deep_origin_reviewer_audit_J181Xz",
+  "notes": [
+    "Completed local packet audit from start to finish.",
+    "MACS1206 public-source replay passed in accepted skip-safe mode for the non-bundled external FITS dependency.",
+    "Author-supplied observed and baryonic raw zip inputs were supplied for the PAYLOAD_B replay path.",
+    "Public direct-author replay remained bounded to receipt, diagnostic, and comparison-admissibility summary surfaces."
+  ]
+}
