@@ -4,13 +4,19 @@ Date: `2026-06-14`
 
 ## Scientific Subtitle
 
-Audit-clean bilingual public checkpoint for Deep Origin Theory: a source-governed gravitation and cosmology program with bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy payload intake, a first non-toy G4 crossing object, and public verification support.
+A reproducible bilingual public checkpoint for Deep Origin Theory: audit-clean packets, bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy rotation-curve payload, a first non-toy G4 crossing object, and public verification support.
+
+## Current Public Checkpoint
+
+- latest version DOI: `10.5281/zenodo.20701413`
+- stable concept DOI: `10.5281/zenodo.20542921`
+- GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
 ## Intro
 
 This release brings together the current English public packet, the Arabic mirror packet, two outward-facing verification support packages, and official completed audit transcript and summary files for both language lanes. It is organized for technical reading, verification, and citation, with a reviewer-facing route from front door to evidence while keeping the main scientific packet clearly separated from auxiliary verification support.
 
-Fast entry route: download the English packet, verify the public SHA256 manifest, and run the included reviewer audit command after unpacking the packet; non-technical readers can instead use the separate Help Us Verify companion package. The internal goal bank is not included in this record.
+Fast entry route: download the English packet, verify the public SHA256 manifest, and run the included reviewer audit command after unpacking the packet; non-technical readers can instead use the separate Help Us Verify companion package.
 
 The strongest public features at this checkpoint are: audit-clean bilingual release surfaces, a bounded MOND/QUMOND clean-front triad court, a direct-author 49-galaxy baryonic and observed rotation-curve intake with diagnostic and rowwise comparison surfaces, a first non-toy G4 crossing object, a public blind-holdout program object with target, prediction, and comparator locks, and public checksum verification.
 
@@ -38,6 +44,23 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 3. Unpack the English packet and run `bash Deep_Origin_Theory_English_Packet_20260605/REVIEWER_AUDIT_BUNDLE_V1/RUN_AUDIT_ALL.sh`.
 4. Expected bounded outcome: a completed audit run with `all_checks_pass = true`.
 5. If you are not technical, use the separate Help Us Verify package instead of the code path.
+
+## Help Us Verify
+
+Use the separate Help Us Verify package if you want to help without reading the whole theory end to end.
+
+Available companion packages:
+
+- `Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`
+- `Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`
+
+Suggested tracks:
+
+- cold audit run
+- technical replication
+- bounded scientific read
+- blind-holdout lock witness
+- error report
 
 ## Download: Main Packets
 
@@ -71,12 +94,13 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 
 ## Visible strengths
 
-- audit-clean bilingual release with public transcripts and a public SHA256 manifest
 - bounded MOND/QUMOND clean-front triad court on the strongest current clean-front lane
 - direct-author 49-galaxy baryonic and observed rotation-curve intake, normalization, and rowwise comparison surfaces
 - first non-toy G4 crossing object
 - public blind-holdout program lock with explicit exposure exclusion
+- audit-clean bilingual release with public transcripts and a public SHA256 manifest
 - reviewer-facing route from front door to evidence
+- separate Help Us Verify companion packages for non-technical and technical volunteer checks
 - bounded public bridge and unification layer
 - official audit-clean transcripts for both the English and Arabic lanes
 
@@ -84,6 +108,12 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 
 - `Keystone I: The First Bearing` remains a separate standalone companion record:
   [`10.5281/zenodo.20465860`](https://doi.org/10.5281/zenodo.20465860)
+
+## Citation
+
+- latest version DOI: `10.5281/zenodo.20701413`
+- stable concept DOI: `10.5281/zenodo.20542921`
+- GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
 ## Keywords
 

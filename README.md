@@ -1,6 +1,6 @@
 # Deep Origin Theory
 
-Audit-clean bilingual public checkpoint for Deep Origin Theory: a source-governed gravitation and cosmology program with bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy payload intake, a first non-toy G4 crossing object, and public verification support.
+A reproducible bilingual public checkpoint for Deep Origin Theory: audit-clean packets, bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy rotation-curve payload, a first non-toy G4 crossing object, and public verification support.
 
 The GitHub mirror is generated from the same canonical release manifest that drives the Zenodo metadata, upload manifest, and public release README.
 
@@ -8,7 +8,7 @@ The GitHub mirror is generated from the same canonical release manifest that dri
 
 Latest public release:
 
-- [`10.5281/zenodo.20699818`](https://doi.org/10.5281/zenodo.20699818)
+- [`10.5281/zenodo.20701413`](https://doi.org/10.5281/zenodo.20701413)
 
 Stable concept DOI:
 
@@ -18,7 +18,7 @@ Stable concept DOI:
 
 This release brings together the current English public packet, the Arabic mirror packet, two outward-facing verification support packages, and official completed audit transcript and summary files for both language lanes. It is organized for technical reading, verification, and citation, with a reviewer-facing route from front door to evidence while keeping the main scientific packet clearly separated from auxiliary verification support.
 
-Fast entry route: download the English packet, verify the public SHA256 manifest, and run the included reviewer audit command after unpacking the packet; non-technical readers can instead use the separate Help Us Verify companion package. The internal goal bank is not included in this record.
+Fast entry route: download the English packet, verify the public SHA256 manifest, and run the included reviewer audit command after unpacking the packet; non-technical readers can instead use the separate Help Us Verify companion package.
 
 The strongest public features at this checkpoint are: audit-clean bilingual release surfaces, a bounded MOND/QUMOND clean-front triad court, a direct-author 49-galaxy baryonic and observed rotation-curve intake with diagnostic and rowwise comparison surfaces, a first non-toy G4 crossing object, a public blind-holdout program object with target, prediction, and comparator locks, and public checksum verification.
 
@@ -47,27 +47,44 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 4. Expected bounded outcome: a completed audit run with `all_checks_pass = true`.
 5. If you are not technical, use the separate Help Us Verify package instead of the code path.
 
+## Help Us Verify
+
+Use the separate Help Us Verify package if you want to help without reading the whole theory end to end.
+
+Available companion packages:
+
+- `Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`
+- `Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`
+
+Suggested tracks:
+
+- cold audit run
+- technical replication
+- bounded scientific read
+- blind-holdout lock witness
+- error report
+
 ## Download: Main Packets
 
-1. [`Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip`](https://zenodo.org/records/20699818/files/Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip?download=1)
-2. [`Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip`](https://zenodo.org/records/20699818/files/Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip?download=1)
+1. [`Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip?download=1)
+2. [`Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip?download=1)
 
 ## Download: Verification Support
 
-1. [`Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`](https://zenodo.org/records/20699818/files/Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip?download=1)
-2. [`Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`](https://zenodo.org/records/20699818/files/Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip?download=1)
+1. [`Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip?download=1)
+2. [`Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip?download=1)
 
 ## Download: Official Audit Records
 
-- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt?download=1)
-- [`PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json?download=1)
-- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt?download=1)
-- [`PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json?download=1)
 
 ## Download: Public Release Support
 
-- [`PUBLIC_RELEASE_README_20260614.md`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_README_20260614.md?download=1)
-- [`PUBLIC_RELEASE_SHA256SUMS_20260614.txt`](https://zenodo.org/records/20699818/files/PUBLIC_RELEASE_SHA256SUMS_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_README_20260614.md`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_README_20260614.md?download=1)
+- [`PUBLIC_RELEASE_SHA256SUMS_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_SHA256SUMS_20260614.txt?download=1)
 
 ## Main Evidence Routes Inside The English Packet
 
@@ -79,12 +96,13 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 
 ## Visible strengths
 
-- audit-clean bilingual release with public transcripts and a public SHA256 manifest
 - bounded MOND/QUMOND clean-front triad court on the strongest current clean-front lane
 - direct-author 49-galaxy baryonic and observed rotation-curve intake, normalization, and rowwise comparison surfaces
 - first non-toy G4 crossing object
 - public blind-holdout program lock with explicit exposure exclusion
+- audit-clean bilingual release with public transcripts and a public SHA256 manifest
 - reviewer-facing route from front door to evidence
+- separate Help Us Verify companion packages for non-technical and technical volunteer checks
 - bounded public bridge and unification layer
 - official audit-clean transcripts for both the English and Arabic lanes
 
@@ -92,6 +110,12 @@ This checkpoint is not presented as final cosmic closure, a completed blind-hold
 
 - `Keystone I: The First Bearing` remains a separate standalone companion record:
   [`10.5281/zenodo.20465860`](https://doi.org/10.5281/zenodo.20465860)
+
+## Citation
+
+- latest version DOI: `10.5281/zenodo.20701413`
+- stable concept DOI: `10.5281/zenodo.20542921`
+- GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
 ## Keywords
 
