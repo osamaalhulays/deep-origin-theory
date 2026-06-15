@@ -8,7 +8,7 @@ A reproducible bilingual public checkpoint for Deep Origin Theory: audit-clean p
 
 ## Current Public Checkpoint
 
-- latest version DOI: `10.5281/zenodo.20701413`
+- latest version DOI: `10.5281/zenodo.20703207`
 - stable concept DOI: `10.5281/zenodo.20542921`
 - GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
@@ -111,7 +111,7 @@ Suggested tracks:
 
 ## Citation
 
-- latest version DOI: `10.5281/zenodo.20701413`
+- latest version DOI: `10.5281/zenodo.20703207`
 - stable concept DOI: `10.5281/zenodo.20542921`
 - GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 

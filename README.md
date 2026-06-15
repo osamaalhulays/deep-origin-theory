@@ -8,7 +8,7 @@ The GitHub mirror is generated from the same canonical release manifest that dri
 
 Latest public release:
 
-- [`10.5281/zenodo.20701413`](https://doi.org/10.5281/zenodo.20701413)
+- [`10.5281/zenodo.20703207`](https://doi.org/10.5281/zenodo.20703207)
 
 Stable concept DOI:
 
@@ -66,25 +66,25 @@ Suggested tracks:
 
 ## Download: Main Packets
 
-1. [`Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip?download=1)
-2. [`Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip?download=1)
+1. [`Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip`](https://zenodo.org/records/20703207/files/Deep_Origin_Theory_English_Packet_20260605__20260614_local_hardening_latest.zip?download=1)
+2. [`Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip`](https://zenodo.org/records/20703207/files/Deep_Origin_Theory_Arabic_Packet_20260605__20260614_mirror_sync_latest.zip?download=1)
 
 ## Download: Verification Support
 
-1. [`Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip?download=1)
-2. [`Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`](https://zenodo.org/records/20701413/files/Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip?download=1)
+1. [`Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip`](https://zenodo.org/records/20703207/files/Deep_Origin_Theory_Help_Us_Verify_English_20260614.zip?download=1)
+2. [`Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip`](https://zenodo.org/records/20703207/files/Deep_Origin_Theory_Help_Us_Verify_Arabic_20260614.zip?download=1)
 
 ## Download: Official Audit Records
 
-- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt?download=1)
-- [`PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json?download=1)
-- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt?download=1)
-- [`PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_EN_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_AUDIT_SUMMARY_EN_20260614.json?download=1)
+- [`PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_AUDIT_TRANSCRIPT_AR_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_AUDIT_SUMMARY_AR_20260614.json?download=1)
 
 ## Download: Public Release Support
 
-- [`PUBLIC_RELEASE_README_20260614.md`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_README_20260614.md?download=1)
-- [`PUBLIC_RELEASE_SHA256SUMS_20260614.txt`](https://zenodo.org/records/20701413/files/PUBLIC_RELEASE_SHA256SUMS_20260614.txt?download=1)
+- [`PUBLIC_RELEASE_README_20260614.md`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_README_20260614.md?download=1)
+- [`PUBLIC_RELEASE_SHA256SUMS_20260614.txt`](https://zenodo.org/records/20703207/files/PUBLIC_RELEASE_SHA256SUMS_20260614.txt?download=1)
 
 ## Main Evidence Routes Inside The English Packet
 
@@ -113,7 +113,7 @@ Suggested tracks:
 
 ## Citation
 
-- latest version DOI: `10.5281/zenodo.20701413`
+- latest version DOI: `10.5281/zenodo.20703207`
 - stable concept DOI: `10.5281/zenodo.20542921`
 - GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
