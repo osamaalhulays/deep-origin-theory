@@ -4,11 +4,11 @@ Date: `2026-06-15`
 
 ## Scientific Subtitle
 
-A reproducible bilingual public checkpoint for Deep Origin Theory: audit-clean packets, bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy empirical intake with explicit public-derivative boundary hardening, a first non-toy G4 crossing object, and public verification support.
+A reproducible bilingual public checkpoint for Deep Origin Theory: audit-clean packets, bounded MOND/QUMOND comparison surfaces, a direct-author 49-galaxy empirical intake with an explicit outward public-derivative boundary, a first non-toy G4 crossing object, a first externally witnessed fresh blind mini-batch reported as mixed rather than success-filtered, and public verification support.
 
-## Current Public Checkpoint
+## Stable Public Anchors
 
-- latest version DOI: `10.5281/zenodo.20707215`
+- latest published outward version DOI: `10.5281/zenodo.20725334`
 - stable concept DOI: `10.5281/zenodo.20542921`
 - GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
@@ -18,22 +18,22 @@ This release brings together the current English public packet, the Arabic mirro
 
 Fast entry route: download the English packet, verify the public SHA256 manifest, and run the included reviewer audit command after unpacking the packet; non-technical readers can instead use the separate Help Us Verify companion package.
 
-The strongest public features at this checkpoint are: audit-clean bilingual release surfaces, a bounded MOND/QUMOND clean-front triad court, a direct-author 49-galaxy baryonic and observed rotation-curve intake with explicit normalization and comparison-admissibility summary surfaces, a first non-toy G4 crossing object, a public blind-holdout program object with target, prediction, and comparator locks, and public checksum verification.
+The strongest public features at this checkpoint are: audit-clean bilingual release surfaces, a bounded MOND/QUMOND clean-front triad court, a direct-author 49-galaxy baryonic and observed rotation-curve intake with explicit normalization, comparison-admissibility summaries, and outward public-derivative boundary hardening, a first non-toy G4 crossing object, a public blind-holdout program object with target, prediction, and comparator locks, a first externally witnessed fresh blind mini-batch with one DDO53 blind hit and one DDO47 QUMOND rescue, and public checksum verification.
 
 Keystone I: The First Bearing remains a separate public companion surface under its own standalone Zenodo record. It is part of the visible scientific topology, but it is not silently bundled into this release unless the artifact policy is changed explicitly.
 
-This checkpoint is not presented as final cosmic closure, a completed blind-holdout result, a full-family MOND/QUMOND defeat, or a finished certification exit.
+This checkpoint is not presented as final cosmic closure, a completed blind-holdout campaign, a full-family MOND/QUMOND defeat, or a finished certification exit.
 
 ## What This Release Is
 
 - an audit-clean bilingual public checkpoint rather than a journal-style final paper
-- a bounded scientific release with MOND/QUMOND comparison surfaces, a direct-author 49-galaxy intake, an explicit public-derivative boundary, and a first non-toy G4 crossing object
+- a bounded scientific release with MOND/QUMOND comparison surfaces, a direct-author 49-galaxy intake boundary, a first non-toy G4 crossing object, and a first externally witnessed fresh blind mini-batch
 - a reproducible entry surface with checksums, audit records, and separate Help Us Verify companion packages
 
 ## Not Claimed In This Checkpoint
 
 - final cosmic closure
-- completed blind-holdout adjudication
+- completed blind-holdout campaign
 - whole-family MOND/QUMOND defeat
 - finished certification exit
 
@@ -88,6 +88,8 @@ Suggested tracks:
 
 - `00_READ_FIRST/CURRENT_MOND_QUMOND_CLEAN_FRONT_POSITIVE_TRIAD_BOUNDED_FAMILY_COURT_VERDICT_NOTE_20260614.md` for bounded family-scale QCT vs MOND/QUMOND verdict on the strongest current clean-front triad
 - `00_READ_FIRST/CURRENT_BLIND_HOLDOUT_QCT_VS_MOND_PROGRAM_OBJECT_MATERIALIZED_NOTE_20260614.md` for the public blind-holdout program object that locks target choice, prediction, comparator protocol, and adjudication
+- `00_READ_FIRST/CURRENT_DDO47_DDO53_BLIND_BATCH_A_UNBLIND_AND_ADJUDICATION_NOTE_20260617.md` for the first externally witnessed fresh blind mini-batch note with one DDO53 blind hit, one DDO47 QUMOND rescue, and a mixed batch verdict
+- `00_READ_FIRST/BATCH_A_POST_UNBLIND_CLOSURE_PACKAGE_V1/05_PUBLIC/PUBLIC_SUMMARY_EN.md` for the reviewer-facing summary of why the first blind mini-batch is methodologically stronger as a mixed rather than filtered result
 - `00_READ_FIRST/CURRENT_DIRECT_AUTHOR_PUBLIC_DERIVATIVE_BOUNDARY_NOTE_20260615.md` for the exact outward-public boundary that keeps direct-author intake summaries visible while withholding row-level derivative republication
 - `00_READ_FIRST/CURRENT_G6_D7_PAYLOAD_B_49_GALAXY_ROWWISE_COMPARISON_ADMISSIBILITY_NOTE_20260613.md` for the direct-author 49-galaxy comparison-admissibility lane with 1082 observed rows admitted at bounded scope through summary and ledger surfaces
 - `00_READ_FIRST/EXTERNAL_DIRECT_AUTHOR_EMPIRICAL_PAYLOAD__PAVEL_MANCERA_PINA_NOTE_20260614.md` for the exact outside direct-author payload receipt and its bounded scientific consequence
@@ -96,8 +98,9 @@ Suggested tracks:
 ## Visible strengths
 
 - bounded MOND/QUMOND clean-front triad court on the strongest current clean-front lane
-- direct-author 49-galaxy baryonic and observed rotation-curve intake with bounded normalization, comparison-admissibility summaries, and explicit public-derivative boundary hardening
+- direct-author 49-galaxy baryonic and observed rotation-curve intake with bounded normalization, comparison-admissibility summaries, and explicit outward public-derivative boundary hardening
 - first non-toy G4 crossing object
+- first externally witnessed fresh blind mini-batch reported as mixed rather than success-filtered
 - public blind-holdout program lock with explicit exposure exclusion
 - audit-clean bilingual release with public transcripts and a public SHA256 manifest
 - reviewer-facing route from front door to evidence
@@ -112,7 +115,7 @@ Suggested tracks:
 
 ## Citation
 
-- latest version DOI: `10.5281/zenodo.20707215`
+- latest published outward version DOI: `10.5281/zenodo.20725334`
 - stable concept DOI: `10.5281/zenodo.20542921`
 - GitHub mirror: `https://github.com/osamaalhulays/deep-origin-theory`
 
@@ -142,7 +145,9 @@ Suggested tracks:
 - external field effect
 - EFE
 - blind holdout
+- blind mini-batch
 - blind prediction
+- blind adjudication
 - pre-registration
 - reproducible research
 - open code
