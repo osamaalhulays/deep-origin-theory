@@ -1,15 +1,15 @@
-# Deep Origin Theory — Updated Scientific Snapshot, J2C Pre-Execution Lock, and Help Us Verify Companions
+# Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock
 
 Current Zenodo record:
 
 ```text
-https://zenodo.org/records/20776639
+https://zenodo.org/records/20776837
 ```
 
 Specific DOI:
 
 ```text
-10.5281/zenodo.20776639
+10.5281/zenodo.20776837
 ```
 
 Stable concept DOI:

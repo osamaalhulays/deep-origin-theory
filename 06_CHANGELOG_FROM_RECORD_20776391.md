@@ -30,11 +30,20 @@ restoration.
 3. Updated both Help Us Verify packages to the current public release links:
 
 ```text
-https://zenodo.org/records/20776639
+https://zenodo.org/records/20776837
 https://github.com/osamaalhulays/deep-origin-theory
 ```
 
-4. Preserved the existing nine-file public release structure from record
+4. Restored the public title identity to:
+
+```text
+Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock
+```
+
+The Help Us Verify packages remain sibling verification-support files, not the
+scientific identity of the release title.
+
+5. Preserved the existing nine-file public release structure from record
    `20776391`, including:
 
 - updated English scientific packet

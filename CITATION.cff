@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
-title: "Deep Origin Theory — Updated Scientific Snapshot, J2C Pre-Execution Lock, and Help Us Verify Companions"
+title: "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock"
 type: report
 authors:
   - family-names: "Alhulays"
     given-names: "Osama"
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://doi.org/10.5281/zenodo.20776639"
-doi: "10.5281/zenodo.20776639"
+url: "https://doi.org/10.5281/zenodo.20776837"
+doi: "10.5281/zenodo.20776837"
 date-released: "2026-06-20"
 abstract: >
   Cumulative public checkpoint for Deep Origin Theory. It preserves the J2C
