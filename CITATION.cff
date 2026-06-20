@@ -1,28 +1,35 @@
 cff-version: 1.2.0
-message: "If you use this public checkpoint, please cite the Zenodo record or the concept DOI and, when relevant, the specific companion surface you relied on."
-title: "Deep Origin Theory Public Checkpoint 2026-06-15"
-type: dataset
+message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
+title: "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock"
+type: report
 authors:
   - family-names: "Alhulays"
     given-names: "Osama"
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://github.com/osamaalhulays/deep-origin-theory"
-doi: "10.5281/zenodo.20707215"
+url: "https://doi.org/10.5281/zenodo.20776391"
+doi: "10.5281/zenodo.20776391"
+date-released: "2026-06-20"
 abstract: >
-  Audit-clean bilingual public checkpoint for Deep Origin Theory: a
-  source-governed gravitation and cosmology program with bounded
-  MOND/QUMOND comparison surfaces, a direct-author 49-galaxy empirical
-  intake with explicit public-derivative boundary hardening, a first
-  non-toy G4 crossing object, and public verification support.
+  Updated public scientific snapshot for Deep Origin Theory with a J2C
+  structural action-class public pre-execution lock. The release contains no
+  known J2C result, no J2C galaxy fit, no data-selected cosmological
+  background, and no final cosmic-closure claim.
 keywords:
   - "Deep Origin Theory"
   - "modified gravity"
-  - "source-governed gravitation"
-  - "source-governed cosmology"
-  - "MOND/QUMOND comparison"
-  - "radial acceleration relation"
-  - "blind holdout"
+  - "scalar-tensor gravity"
+  - "kinetic gravity braiding"
+  - "Horndeski gravity"
+  - "cosmological background"
+  - "physical metric"
+  - "Jordan frame"
+  - "mass-radius scaling"
+  - "gravitational lensing"
+  - "pre-registration"
+  - "pre-execution lock"
+  - "falsifiability"
   - "reproducible research"
-  - "data provenance"
-  - "research transparency"
+  - "open science"
+  - "MOND"
+  - "QUMOND"

@@ -1,0 +1,117 @@
+{
+  "release_title": "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock",
+  "release_date": "2026-06-20",
+  "build_timestamp_utc": "2026-06-20T16:01:34Z",
+  "intended_publication_mode": "new_version_of_existing_zenodo_record",
+  "previous_public_record": "https://zenodo.org/records/20733581",
+  "concept_doi": "10.5281/zenodo.20542921",
+  "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
+  "local_git_repository_detected": false,
+  "git_commit": "unavailable_in_local_build_folder",
+  "git_tag": "not_available",
+  "claim_boundary": {
+    "j2c_result_known": false,
+    "j2c_result_claimed": false,
+    "galaxy_fit_claimed_from_j2c": false,
+    "data_selected_background_claimed": false,
+    "exact_finite_j2_action_representative_claimed": false,
+    "new_g3_function_claimed": false,
+    "disformal_or_vector_extension_claimed": false,
+    "whole_family_mond_qumond_defeat_claimed": false,
+    "final_cosmic_closure_claimed": false
+  },
+  "raw_preserved_archives": [
+    {
+      "path": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260620.zip::Deep_Origin_Theory_English_Packet_20260605/artifacts/public_source_payloads/fraternali_public_payload_stock_20260616/finalrot.zip",
+      "status": "raw_upstream_archive_preserved_for_source_provenance",
+      "clean_tree_boundary": "Nested macOS resource-fork entries inside this preserved upstream archive are excluded from active runtime/output and release-wrapper cleanliness claims."
+    }
+  ],
+  "files": [
+    {
+      "name": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260620.zip",
+      "role": "main_english_scientific_packet",
+      "size_bytes": 32068524,
+      "sha256": "abf66a04c56631bb09f67212ee82482e34a8e94d67d275a87bd8ceebfbf5d787"
+    },
+    {
+      "name": "02_Deep_Origin_Updated_Scientific_Packet_AR_20260620.zip",
+      "role": "arabic_public_state_access_layer",
+      "size_bytes": 6024676,
+      "sha256": "f5329412dc714d1536a6a36c12359b585b23496b8cd106be6a5c0c4bb6330887"
+    },
+    {
+      "name": "03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip",
+      "role": "small_j2c_preexecution_frontdoor_capsule",
+      "size_bytes": 25240,
+      "sha256": "1e7c5599348353b4c5b701bae0d0e9dbe6d648c5252ea70b66fe53e9eaf9d0d5"
+    },
+    {
+      "name": "04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip",
+      "role": "separate_reviewer_runtime_support_package",
+      "size_bytes": 78826,
+      "sha256": "8d0cade602af81d8bd97ffe356b98b1358f029a56ff06026a4ab625e498dbea1"
+    },
+    {
+      "name": "05_PUBLIC_RELEASE_INDEX.md",
+      "role": "human_release_index",
+      "size_bytes": 3347,
+      "sha256": "4eb2dcf6451266dc492adab40d93f46f6757c8fe48e8abc8cd808f889bd38f72"
+    },
+    {
+      "name": "06_CHANGELOG_FROM_RECORD_20733581.md",
+      "role": "version_changelog",
+      "size_bytes": 2181,
+      "sha256": "c6faff4725e91a6644b5bbbaf11ba9d7ca93076bfe726b8ce8c0d22350027a3f"
+    },
+    {
+      "name": "07_RELEASE_MANIFEST.json",
+      "role": "machine_readable_manifest",
+      "checksum_policy": "This manifest does not embed a checksum of itself; its current checksum is recorded externally in 08_SHA256SUMS.txt."
+    },
+    {
+      "name": "08_SHA256SUMS.txt",
+      "role": "release_checksums_excluding_self"
+    },
+    {
+      "name": "09_LICENSE_AND_CITATION.md",
+      "role": "license_and_citation_boundary",
+      "size_bytes": 747,
+      "sha256": "0b8089ab278d5ca13d6aab03d9fb659afa6a473676aa75056fc772fed4f40632"
+    }
+  ],
+  "result_commitment": "A later public version must report the J2C result whether it survives, fails, or receives a no-branch verdict.",
+  "local_preupload_checks": {
+    "performed_on": "2026-06-20",
+    "release_folder_sha256_check": "passed",
+    "zip_integrity_tests": "passed_for_all_four_zip_files",
+    "cold_unzip_scan_for_author_paths": "passed",
+    "cold_unzip_scan_for_system_artifacts": "passed_for_release_sibling_files_and_active_packet_surfaces; nested raw preserved upstream archives are declared separately",
+    "runtime_fast_audit": "passed_16_of_16",
+    "runtime_fast_semantic_verifier": "all_checks_pass_true",
+    "runtime_full_audit": "passed_23_of_23",
+    "runtime_full_semantic_verifier": "all_checks_pass_true",
+    "auditor1_arabic_orphan_cleanup": "passed",
+    "auditor1_wrapper_macosx_note": "release_sibling_files_do_not_use_finder_wrapper_zip",
+    "external_upload_status": "not_uploaded_by_this_build_step"
+  },
+  "sha256_policy": "08_SHA256SUMS.txt covers all sibling release files except the checksum ledger itself.",
+  "zenodo_keyword_focus": [
+    "Deep Origin Theory",
+    "pre-registration",
+    "pre-execution lock",
+    "modified gravity",
+    "scalar-tensor gravity",
+    "kinetic gravity braiding",
+    "Horndeski gravity",
+    "cosmological background",
+    "Jordan frame",
+    "physical metric",
+    "mass-radius scaling",
+    "gravitational lensing",
+    "falsifiability",
+    "reproducible research",
+    "open science"
+  ],
+  "release_file_inventory_generated_utc": "2026-06-20T16:01:34Z"
+}
