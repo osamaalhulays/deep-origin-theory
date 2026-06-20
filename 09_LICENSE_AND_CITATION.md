@@ -4,7 +4,13 @@ Date: `2026-06-20`
 
 ## Citation
 
-Please cite the Zenodo concept DOI for the public release series:
+Please cite the specific Zenodo record DOI for this version:
+
+```text
+10.5281/zenodo.20776639
+```
+
+The stable concept DOI for the public release series is:
 
 ```text
 10.5281/zenodo.20542921
@@ -27,4 +33,3 @@ quotation, citation, and verification should be cleared with the author.
 
 Included third-party scientific references, data-lineage notes, and author
 acknowledgements retain their original attribution boundaries.
-

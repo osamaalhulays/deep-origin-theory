@@ -1,14 +1,14 @@
 {
-  "release_title": "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock",
+  "release_title": "Deep Origin Theory — Updated Scientific Snapshot, J2C Pre-Execution Lock, and Help Us Verify Companions",
   "release_date": "2026-06-20",
-  "build_timestamp_utc": "2026-06-20T16:01:34Z",
+  "build_timestamp_utc": "2026-06-20T17:00:34Z",
   "intended_publication_mode": "new_version_of_existing_zenodo_record",
-  "previous_public_record": "https://zenodo.org/records/20733581",
+  "previous_public_record": "https://zenodo.org/records/20776391",
+  "current_public_record": "https://zenodo.org/records/20776639",
+  "specific_doi": "10.5281/zenodo.20776639",
   "concept_doi": "10.5281/zenodo.20542921",
   "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
-  "local_git_repository_detected": false,
-  "git_commit": "unavailable_in_local_build_folder",
-  "git_tag": "not_available",
+  "correction_scope": "Restores the standalone Help Us Verify English and Arabic companion packages that were unintentionally omitted from record 20776391.",
   "claim_boundary": {
     "j2c_result_known": false,
     "j2c_result_claimed": false,
@@ -19,6 +19,11 @@
     "disformal_or_vector_extension_claimed": false,
     "whole_family_mond_qumond_defeat_claimed": false,
     "final_cosmic_closure_claimed": false
+  },
+  "companion_package_boundary": {
+    "runtime_package_role": "code execution and reviewer audit replay",
+    "help_us_verify_role": "volunteer-facing outside verification, AI-assisted quick read, bounded read, witness, and error report lanes",
+    "endorsement_requested": false
   },
   "raw_preserved_archives": [
     {
@@ -55,14 +60,14 @@
     {
       "name": "05_PUBLIC_RELEASE_INDEX.md",
       "role": "human_release_index",
-      "size_bytes": 3347,
-      "sha256": "4eb2dcf6451266dc492adab40d93f46f6757c8fe48e8abc8cd808f889bd38f72"
+      "size_bytes": 4721,
+      "sha256": "2da82f748d3006526620d4459a5643d790c8a73cde171923ab98b4bfecf09566"
     },
     {
-      "name": "06_CHANGELOG_FROM_RECORD_20733581.md",
-      "role": "version_changelog",
-      "size_bytes": 2181,
-      "sha256": "c6faff4725e91a6644b5bbbaf11ba9d7ca93076bfe726b8ce8c0d22350027a3f"
+      "name": "06_CHANGELOG_FROM_RECORD_20776391.md",
+      "role": "version_changelog_from_previous_public_record",
+      "size_bytes": 2045,
+      "sha256": "c76191e38e4a3f7fb1d8176f081d16bb2caf83cfc8721b28ba537ddf336a5560"
     },
     {
       "name": "07_RELEASE_MANIFEST.json",
@@ -76,25 +81,23 @@
     {
       "name": "09_LICENSE_AND_CITATION.md",
       "role": "license_and_citation_boundary",
-      "size_bytes": 747,
-      "sha256": "0b8089ab278d5ca13d6aab03d9fb659afa6a473676aa75056fc772fed4f40632"
+      "size_bytes": 836,
+      "sha256": "ad1af43afd157c0a35d4352c7817093ca35266d808f3ee9569c887ad99712f9c"
+    },
+    {
+      "name": "10_Deep_Origin_Help_Us_Verify_English_20260620.zip",
+      "role": "english_help_us_verify_companion_package",
+      "size_bytes": 13864,
+      "sha256": "d266eb56c18d233c5f9867e2da06dc939d683a268b6afb281e858ab15c9e6bf3"
+    },
+    {
+      "name": "11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip",
+      "role": "arabic_help_us_verify_companion_package",
+      "size_bytes": 15025,
+      "sha256": "1e52dea83c8cb224f59d88c92d6d3afa36e662165513b6a23966c02f67198b06"
     }
   ],
   "result_commitment": "A later public version must report the J2C result whether it survives, fails, or receives a no-branch verdict.",
-  "local_preupload_checks": {
-    "performed_on": "2026-06-20",
-    "release_folder_sha256_check": "passed",
-    "zip_integrity_tests": "passed_for_all_four_zip_files",
-    "cold_unzip_scan_for_author_paths": "passed",
-    "cold_unzip_scan_for_system_artifacts": "passed_for_release_sibling_files_and_active_packet_surfaces; nested raw preserved upstream archives are declared separately",
-    "runtime_fast_audit": "passed_16_of_16",
-    "runtime_fast_semantic_verifier": "all_checks_pass_true",
-    "runtime_full_audit": "passed_23_of_23",
-    "runtime_full_semantic_verifier": "all_checks_pass_true",
-    "auditor1_arabic_orphan_cleanup": "passed",
-    "auditor1_wrapper_macosx_note": "release_sibling_files_do_not_use_finder_wrapper_zip",
-    "external_upload_status": "not_uploaded_by_this_build_step"
-  },
   "sha256_policy": "08_SHA256SUMS.txt covers all sibling release files except the checksum ledger itself.",
   "zenodo_keyword_focus": [
     "Deep Origin Theory",
@@ -111,7 +114,10 @@
     "gravitational lensing",
     "falsifiability",
     "reproducible research",
-    "open science"
-  ],
-  "release_file_inventory_generated_utc": "2026-06-20T16:01:34Z"
+    "open science",
+    "scientific verification support",
+    "AI-assisted verification",
+    "MOND",
+    "QUMOND"
+  ]
 }

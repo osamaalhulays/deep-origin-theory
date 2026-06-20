@@ -1,20 +1,21 @@
 cff-version: 1.2.0
 message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
-title: "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock"
+title: "Deep Origin Theory — Updated Scientific Snapshot, J2C Pre-Execution Lock, and Help Us Verify Companions"
 type: report
 authors:
   - family-names: "Alhulays"
     given-names: "Osama"
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://doi.org/10.5281/zenodo.20776391"
-doi: "10.5281/zenodo.20776391"
+url: "https://doi.org/10.5281/zenodo.20776639"
+doi: "10.5281/zenodo.20776639"
 date-released: "2026-06-20"
 abstract: >
-  Updated public scientific snapshot for Deep Origin Theory with a J2C
-  structural action-class public pre-execution lock. The release contains no
-  known J2C result, no J2C galaxy fit, no data-selected cosmological
-  background, and no final cosmic-closure claim.
+  Cumulative public checkpoint for Deep Origin Theory. It preserves the J2C
+  structural action-class public pre-execution lock and restores the standalone
+  Help Us Verify English and Arabic companion packages as sibling public files.
+  The release contains no known J2C result, no J2C galaxy fit, no
+  data-selected cosmological background, and no final cosmic-closure claim.
 keywords:
   - "Deep Origin Theory"
   - "modified gravity"
@@ -31,5 +32,7 @@ keywords:
   - "falsifiability"
   - "reproducible research"
   - "open science"
+  - "scientific verification support"
+  - "AI-assisted verification"
   - "MOND"
   - "QUMOND"

@@ -1,9 +1,35 @@
-# Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock
+# Deep Origin Theory — Updated Scientific Snapshot, J2C Pre-Execution Lock, and Help Us Verify Companions
 
-This release updates the public scientific state of Deep Origin Theory and
-freezes the J2C structural action-class cosmological-background and
-physical-metric test before execution. No J2C result is known or claimed in
-this release.
+Current Zenodo record:
+
+```text
+https://zenodo.org/records/20776639
+```
+
+Specific DOI:
+
+```text
+10.5281/zenodo.20776639
+```
+
+Stable concept DOI:
+
+```text
+10.5281/zenodo.20542921
+```
+
+GitHub mirror:
+
+```text
+https://github.com/osamaalhulays/deep-origin-theory
+```
+
+This release updates the public scientific state of Deep Origin Theory, freezes
+the J2C structural action-class cosmological-background and physical-metric test
+before execution, and restores the standalone Help Us Verify companion packages
+as sibling public files.
+
+No J2C result is known or claimed in this release.
 
 ## Files
 
@@ -30,8 +56,9 @@ this release.
 5. `05_PUBLIC_RELEASE_INDEX.md`
    - This index.
 
-6. `06_CHANGELOG_FROM_RECORD_20733581.md`
-   - Summary of changes from the public 2026-06-17 checkpoint.
+6. `06_CHANGELOG_FROM_RECORD_20776391.md`
+   - Packaging correction and accumulation note from the previous public
+     record.
 
 7. `07_RELEASE_MANIFEST.json`
    - Machine-readable release structure and claim boundary.
@@ -42,6 +69,31 @@ this release.
 
 9. `09_LICENSE_AND_CITATION.md`
    - Citation and reuse boundary for this checkpoint.
+
+10. `10_Deep_Origin_Help_Us_Verify_English_20260620.zip`
+    - Standalone English companion package for outside verification.
+    - Includes the non-technical AI-assisted quick-read path, email templates,
+      issue templates, and bounded report tracks.
+
+11. `11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip`
+    - Standalone Arabic companion package for outside verification.
+    - Includes the same bounded help lanes in Arabic.
+
+## Why The Help Us Verify Packages Are Separate
+
+The runtime package is for code execution and reviewer audit replay.
+
+The Help Us Verify packages are for human-facing outside help:
+
+- AI-assisted quick read
+- cold audit report
+- technical replication note
+- bounded scientific read
+- pre-execution lock witness
+- arXiv/category advice
+- concrete error report
+
+They do not ask for endorsement of the theory.
 
 ## Scientific Boundary
 
@@ -77,6 +129,8 @@ the clean-tree claim for active release files and reviewer runtime support.
 4. If you only want the pre-execution lock, open the small J2C capsule.
 5. If you want to verify replayable audit surfaces, extract the runtime support
    package and follow its `README.md`.
+6. If you are a volunteer or non-technical reader, open the matching Help Us
+   Verify package first.
 
 ## Zenodo Keyword Focus
 
@@ -86,5 +140,6 @@ Suggested focused keyword set:
 Deep Origin Theory; pre-registration; pre-execution lock; modified gravity;
 scalar-tensor gravity; kinetic gravity braiding; Horndeski gravity;
 cosmological background; Jordan frame; physical metric; mass-radius scaling;
-gravitational lensing; falsifiability; reproducible research; open science
+gravitational lensing; falsifiability; reproducible research; open science;
+scientific verification support; AI-assisted verification
 ```
