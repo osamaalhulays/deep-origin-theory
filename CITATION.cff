@@ -1,23 +1,25 @@
 cff-version: 1.2.0
 message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
-title: "Deep Origin Theory — J2C Result Release V1: Canonical J2R Rerun and Coefficient-Only Total-Scaling No-Go"
+title: "Deep Origin Theory — J2C Result Release V1 Cumulative Checkpoint: Canonical J2R Rerun and Coefficient-Only Total-Scaling No-Go"
 type: report
 authors:
   - family-names: "Alhulays"
     given-names: "Osama"
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://doi.org/10.5281/zenodo.20779188"
-doi: "10.5281/zenodo.20779188"
+url: "https://doi.org/10.5281/zenodo.20779214"
+doi: "10.5281/zenodo.20779214"
 date-released: "2026-06-21"
 abstract: >
-  Public J2C result checkpoint for Deep Origin Theory. The release preserves
-  the sequence from the earlier structural pre-execution lock through the first
-  no-admission execution, the exact finite J2R representative lock without
-  galaxy fitting, and the J2C rerun that produced a coefficient-only
-  total-scaling no-go for that representative. It does not retire all J2, does
-  not decide nonlinear K plus braiding, and does not claim MOND/QUMOND family
-  defeat or final cosmic closure.
+  Cumulative public J2C result checkpoint for Deep Origin Theory. The release
+  preserves the sequence from the earlier structural pre-execution lock through
+  the first no-admission execution, the exact finite J2R representative lock
+  without galaxy fitting, and the J2C rerun that produced a coefficient-only
+  total-scaling no-go for that representative. It also preserves the J2C
+  pre-execution capsule, reproducibility runtime, and Help Us Verify companion
+  packages as sibling public files. It does not retire all J2, does not decide
+  nonlinear K plus braiding, and does not claim MOND/QUMOND family defeat or
+  final cosmic closure.
 keywords:
   - "Deep Origin Theory"
   - "J2C"
@@ -36,6 +38,8 @@ keywords:
   - "pre-execution lock"
   - "falsifiability"
   - "reproducible research"
+  - "scientific verification support"
+  - "AI-assisted verification"
   - "open science"
   - "MOND"
   - "QUMOND"

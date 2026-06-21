@@ -1,15 +1,15 @@
-# Deep Origin Theory — J2C Result Release V1
+# Deep Origin Theory — J2C Result Release V1 Cumulative Checkpoint
 
 Current Zenodo record:
 
 ```text
-https://zenodo.org/records/20779188
+https://zenodo.org/records/20779214
 ```
 
 Specific DOI:
 
 ```text
-10.5281/zenodo.20779188
+10.5281/zenodo.20779214
 ```
 
 Stable concept DOI:
@@ -27,11 +27,10 @@ https://github.com/osamaalhulays/deep-origin-theory
 This GitHub repository mirrors the public sibling-file release for the Zenodo
 record above.
 
-This release records the first J2C execution sequence after the public
-pre-execution lock. The pre-execution checkpoint first exposed that the exact
-action representative was not uniquely frozen. A finite canonical representative
-was then frozen without galaxy fitting, and the rerun produced the declared
-coefficient-only total-scaling no-go for that representative.
+This cumulative release records the first J2C execution sequence after the
+public pre-execution lock while preserving the J2C capsule, runtime support, and
+Help Us Verify companion packages as visible sibling files. A reader should not
+need to inspect an earlier Zenodo version to discover those support packages.
 
 ## Files
 
@@ -44,15 +43,38 @@ coefficient-only total-scaling no-go for that representative.
    - Intended to expose the same public scientific state without creating a
      separate claim lane.
 
-3. `05_PUBLIC_RELEASE_INDEX.md`
+3. `03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip`
+   - Public pre-execution lock capsule.
+   - Preserved as a historical and verification witness for what was locked
+     before the result.
+
+4. `04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip`
+   - Reviewer runtime support package.
+   - Preserved so code/audit replay support remains discoverable beside the
+     result.
+
+5. `05_PUBLIC_RELEASE_INDEX.md`
    - This index.
 
-4. `07_RELEASE_MANIFEST.json`
+6. `06_CHANGELOG_FROM_RECORD_20776837_TO_20779214.md`
+   - Changelog from the cumulative J2C pre-execution release to this cumulative
+     result release.
+
+7. `07_RELEASE_MANIFEST.json`
    - Machine-readable release structure and claim boundary.
 
-5. `08_SHA256SUMS.txt`
-   - SHA-256 checksums for all sibling files in this release folder except the
-     checksum ledger itself.
+8. `08_SHA256SUMS.txt`
+   - SHA-256 checksums for all sibling release files except the checksum ledger
+     itself.
+
+9. `09_LICENSE_AND_CITATION.md`
+   - Citation and reuse boundary for this checkpoint.
+
+10. `10_Deep_Origin_Help_Us_Verify_English_20260620.zip`
+    - Standalone English verification-support package.
+
+11. `11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip`
+    - Standalone Arabic verification-support package.
 
 ## Scientific Sequence Preserved
 
@@ -102,6 +124,8 @@ J2B_NONLINEAR_KINETIC_PLUS_BRAIDING_FINITE_FAMILY_DECISION_V1
 3. For the J2C result path, read the `J2C_RESULT_RELEASE_V1` surfaces inside
    the English packet.
 4. Verify the sibling files with `08_SHA256SUMS.txt`.
+5. Use the J2C capsule, runtime, and Help Us Verify packages as support lanes,
+   not as separate scientific claim lanes.
 
 ## Zenodo Keyword Focus
 
@@ -111,6 +135,6 @@ Suggested focused keyword set:
 Deep Origin Theory; J2C; J2R; modified gravity; scalar-tensor gravity;
 kinetic gravity braiding; Horndeski gravity; cosmological background;
 Jordan frame; physical metric; mass-radius scaling; no-go result;
-pre-execution lock; falsifiability; reproducible research; open science;
-MOND; QUMOND
+pre-execution lock; falsifiability; reproducible research; scientific
+verification support; AI-assisted verification; open science; MOND; QUMOND
 ```
