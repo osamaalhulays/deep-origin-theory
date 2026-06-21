@@ -1,145 +1,89 @@
-# Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock
+# Deep Origin Theory - J2C Result Release Checkpoint
 
-Current Zenodo record:
+Date prepared: `2026-06-21`
 
-```text
-https://zenodo.org/records/20776837
-```
-
-Specific DOI:
-
-```text
-10.5281/zenodo.20776837
-```
-
-Stable concept DOI:
-
-```text
-10.5281/zenodo.20542921
-```
-
-GitHub mirror:
-
-```text
-https://github.com/osamaalhulays/deep-origin-theory
-```
-
-This release updates the public scientific state of Deep Origin Theory, freezes
-the J2C structural action-class cosmological-background and physical-metric test
-before execution, and restores the standalone Help Us Verify companion packages
-as sibling public files.
-
-No J2C result is known or claimed in this release.
+This release folder is the public file set for the J2C result checkpoint. It is
+intended to be mirrored as sibling files on Zenodo and GitHub, not buried inside
+one opaque wrapper archive.
 
 ## Files
 
-1. `01_Deep_Origin_Updated_Scientific_Packet_EN_20260620.zip`
-   - Main English scientific packet.
-   - Includes the current public scientific state and the J2C pre-execution
-     lock as part of the canonical packet.
+1. `01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_J2C_Result.zip`
+2. `02_Deep_Origin_Updated_Scientific_Packet_AR_20260621_J2C_Result.zip`
+3. `05_PUBLIC_RELEASE_INDEX.md`
+4. `07_RELEASE_MANIFEST.json`
+5. `08_SHA256SUMS.txt`
 
-2. `02_Deep_Origin_Updated_Scientific_Packet_AR_20260620.zip`
-   - Arabic public-state access layer.
-   - Intended to expose the same public scientific state without creating a
-     separate claim lane.
+## Scientific Sequence Preserved
 
-3. `03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip`
-   - Small front-door capsule for the J2C lock only.
-   - It contains no result, no fit, no selected background, and no successor
-     theory claim.
+```text
+public J2C structural pre-execution lock
+-> first execution: exact action representative not yet frozen
+-> no predictive admission at first execution
+-> exact finite J2R representative frozen without galaxy fitting
+-> J2C rerun on J2R
+-> coefficient-only total-scaling no-go for J2R
+```
 
-4. `04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip`
-   - Separate reviewer runtime support.
-   - It provides portable launchers for packet audit scripts and expects an
-     extracted English packet path.
+The release states the sequence explicitly. It does not claim that the exact
+`J2R_CANONICAL_LINEAR_BRAIDING_LAMBDA_LOCK_V1` representative was already
+frozen in the public pre-execution checkpoint. The public checkpoint first
+exposed that the action representative was not yet uniquely frozen; the finite
+canonical representative was then frozen without galaxy fitting; the rerun then
+produced the declared coefficient-only scaling no-go.
 
-5. `05_PUBLIC_RELEASE_INDEX.md`
-   - This index.
+## Scope
 
-6. `06_CHANGELOG_FROM_RECORD_20776391.md`
-   - Packaging correction and accumulation note from the previous public
-     record.
+Current result:
 
-7. `07_RELEASE_MANIFEST.json`
-   - Machine-readable release structure and claim boundary.
+```text
+J2C_BACKGROUND_COEFFICIENTS_ONLY__TOTAL_PHYSICAL_ACCELERATION_SCALING_NO_GO
+```
 
-8. `08_SHA256SUMS.txt`
-   - SHA-256 checksums for all sibling files in this release folder except the
-     checksum ledger itself.
+This retires only:
 
-9. `09_LICENSE_AND_CITATION.md`
-   - Citation and reuse boundary for this checkpoint.
+```text
+J2R_CANONICAL_LINEAR_BRAIDING_LAMBDA_LOCK_V1
+```
 
-10. `10_Deep_Origin_Help_Us_Verify_English_20260620.zip`
-    - Standalone English companion package for outside verification.
-    - Includes the non-technical AI-assisted quick-read path, email templates,
-      issue templates, and bounded report tracks.
+as a background-assisted route for changing the total physical acceleration
+mass-radius scaling.
 
-11. `11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip`
-    - Standalone Arabic companion package for outside verification.
-    - Includes the same bounded help lanes in Arabic.
-
-## Why The Help Us Verify Packages Are Separate
-
-The runtime package is for code execution and reviewer audit replay.
-
-The Help Us Verify packages are for human-facing outside help:
-
-- AI-assisted quick read
-- cold audit report
-- technical replication note
-- bounded scientific read
-- pre-execution lock witness
-- arXiv/category advice
-- concrete error report
-
-They do not ask for endorsement of the theory.
-
-## Scientific Boundary
+## Nonclaims
 
 This release does not claim:
 
-- a known J2C result
-- a galaxy fit from J2C
-- a data-selected cosmological background
-- a unique exact finite `K_can(X), G3(X)` action representative already frozen
-- a new `G_3` function
-- a disformal or vector extension
-- whole-family MOND/QUMOND defeat
-- final cosmic closure
+```text
+all J2 retired
+nonlinear K plus braiding decided
+vector/disformal opened
+MOND/QUMOND family defeat
+final cosmic closure
+galaxy fit rescue
+NGC1003 repair
+```
 
-The J2C result must be released later whether it survives, fails, or receives a
-no-branch verdict.
-
-## Raw Preserved Archive Boundary
-
-The English packet includes the public source archive
-`artifacts/public_source_payloads/fraternali_public_payload_stock_20260616/finalrot.zip`
-as a raw preserved upstream archive. It is retained to preserve source
-provenance and historical checksums. Any macOS resource-fork entries inside that
-nested upstream archive are not executable packet surfaces and are excluded from
-the clean-tree claim for active release files and reviewer runtime support.
-
-## Suggested Reading Path
-
-1. Read this file.
-2. Open the English packet `00_READ_FIRST/START_HERE_FIRST.md`.
-3. For the live J2C branch, read the J2C pre-execution lock note inside the
-   English packet.
-4. If you only want the pre-execution lock, open the small J2C capsule.
-5. If you want to verify replayable audit surfaces, extract the runtime support
-   package and follow its `README.md`.
-6. If you are a volunteer or non-technical reader, open the matching Help Us
-   Verify package first.
-
-## Zenodo Keyword Focus
-
-Suggested focused keyword set:
+## Next Scientific Tooth
 
 ```text
-Deep Origin Theory; pre-registration; pre-execution lock; modified gravity;
-scalar-tensor gravity; kinetic gravity braiding; Horndeski gravity;
-cosmological background; Jordan frame; physical metric; mass-radius scaling;
-gravitational lensing; falsifiability; reproducible research; open science;
-scientific verification support; AI-assisted verification
+J2B_NONLINEAR_KINETIC_PLUS_BRAIDING_FINITE_FAMILY_DECISION_V1
 ```
+
+That next step is a finite-family decision gate, not a construction or fitting
+gate. No kill suite or galaxy fitting is authorized before an exact finite
+family is frozen.
+
+## Public Mirror Rule
+
+The Zenodo record and GitHub mirror should expose the same sibling-file set:
+
+```text
+English scientific packet
+Arabic scientific packet
+public release index
+machine-readable release manifest
+SHA-256 checksum ledger
+```
+
+The checksum ledger is regenerated after this index and the manifest are
+finalized.

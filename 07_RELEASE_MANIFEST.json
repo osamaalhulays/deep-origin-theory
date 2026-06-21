@@ -1,123 +1,40 @@
 {
-  "release_title": "Deep Origin Theory — Updated Scientific Snapshot and J2C Structural Action-Class Public Pre-Execution Lock",
-  "release_date": "2026-06-20",
-  "build_timestamp_utc": "2026-06-20T17:00:34Z",
-  "intended_publication_mode": "new_version_of_existing_zenodo_record",
-  "previous_public_record": "https://zenodo.org/records/20776391",
-  "current_public_record": "https://zenodo.org/records/20776837",
-  "specific_doi": "10.5281/zenodo.20776837",
-  "concept_doi": "10.5281/zenodo.20542921",
-  "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
-  "correction_scope": "Restores the standalone Help Us Verify English and Arabic companion packages that were unintentionally omitted from record 20776391.",
-  "claim_boundary": {
-    "j2c_result_known": false,
-    "j2c_result_claimed": false,
-    "galaxy_fit_claimed_from_j2c": false,
-    "data_selected_background_claimed": false,
-    "exact_finite_j2_action_representative_claimed": false,
-    "new_g3_function_claimed": false,
-    "disformal_or_vector_extension_claimed": false,
-    "whole_family_mond_qumond_defeat_claimed": false,
-    "final_cosmic_closure_claimed": false
-  },
-  "companion_package_boundary": {
-    "runtime_package_role": "code execution and reviewer audit replay",
-    "help_us_verify_role": "volunteer-facing outside verification, AI-assisted quick read, bounded read, witness, and error report lanes",
-    "endorsement_requested": false
-  },
-  "raw_preserved_archives": [
-    {
-      "path": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260620.zip::Deep_Origin_Theory_English_Packet_20260605/artifacts/public_source_payloads/fraternali_public_payload_stock_20260616/finalrot.zip",
-      "status": "raw_upstream_archive_preserved_for_source_provenance",
-      "clean_tree_boundary": "Nested macOS resource-fork entries inside this preserved upstream archive are excluded from active runtime/output and release-wrapper cleanliness claims."
-    }
+  "release_object": "Deep_Origin_Theory_J2C_Result_Ready_Before_Publish",
+  "prepared_date": "2026-06-21",
+  "publication_state": "published_sibling_file_set_for_zenodo_and_github_mirror",
+  "scientific_sequence": [
+    "public_j2c_structural_preexecution_lock",
+    "first_execution_exact_action_representative_not_frozen_no_predictive_admission",
+    "j2r_exact_finite_representative_frozen_without_galaxy_fit",
+    "j2c_rerun_on_j2r",
+    "coefficient_only_total_scaling_no_go_for_j2r"
+  ],
+  "current_result": "J2C_BACKGROUND_COEFFICIENTS_ONLY__TOTAL_PHYSICAL_ACCELERATION_SCALING_NO_GO",
+  "retired_scope": "J2R_CANONICAL_LINEAR_BRAIDING_LAMBDA_LOCK_V1 only",
+  "next_tooth": "J2B_NONLINEAR_KINETIC_PLUS_BRAIDING_FINITE_FAMILY_DECISION_V1",
+  "nonclaims": [
+    "all_J2_retired",
+    "MOND_QUMOND_family_defeat",
+    "final_cosmic_closure",
+    "vector_disformal_opened",
+    "galaxy_fit_rescue",
+    "NGC1003_repair"
   ],
   "files": [
     {
-      "name": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260620.zip",
-      "role": "main_english_scientific_packet",
-      "size_bytes": 32068524,
-      "sha256": "abf66a04c56631bb09f67212ee82482e34a8e94d67d275a87bd8ceebfbf5d787"
+      "name": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_J2C_Result.zip",
+      "bytes": 32145113,
+      "sha256": "ee6419e78d412e3092348e3c6df70a09cea5e8aa69a0e854e13d674e45389f78"
     },
     {
-      "name": "02_Deep_Origin_Updated_Scientific_Packet_AR_20260620.zip",
-      "role": "arabic_public_state_access_layer",
-      "size_bytes": 6024676,
-      "sha256": "f5329412dc714d1536a6a36c12359b585b23496b8cd106be6a5c0c4bb6330887"
-    },
-    {
-      "name": "03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip",
-      "role": "small_j2c_preexecution_frontdoor_capsule",
-      "size_bytes": 25240,
-      "sha256": "1e7c5599348353b4c5b701bae0d0e9dbe6d648c5252ea70b66fe53e9eaf9d0d5"
-    },
-    {
-      "name": "04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip",
-      "role": "separate_reviewer_runtime_support_package",
-      "size_bytes": 78826,
-      "sha256": "8d0cade602af81d8bd97ffe356b98b1358f029a56ff06026a4ab625e498dbea1"
+      "name": "02_Deep_Origin_Updated_Scientific_Packet_AR_20260621_J2C_Result.zip",
+      "bytes": 31482495,
+      "sha256": "4ee613ca4cf78b1b876adf70d228759d5eb0a144c062dff24cad17469430ab07"
     },
     {
       "name": "05_PUBLIC_RELEASE_INDEX.md",
-      "role": "human_release_index",
-      "size_bytes": 4721,
-      "sha256": "2da82f748d3006526620d4459a5643d790c8a73cde171923ab98b4bfecf09566"
-    },
-    {
-      "name": "06_CHANGELOG_FROM_RECORD_20776391.md",
-      "role": "version_changelog_from_previous_public_record",
-      "size_bytes": 2045,
-      "sha256": "c76191e38e4a3f7fb1d8176f081d16bb2caf83cfc8721b28ba537ddf336a5560"
-    },
-    {
-      "name": "07_RELEASE_MANIFEST.json",
-      "role": "machine_readable_manifest",
-      "checksum_policy": "This manifest does not embed a checksum of itself; its current checksum is recorded externally in 08_SHA256SUMS.txt."
-    },
-    {
-      "name": "08_SHA256SUMS.txt",
-      "role": "release_checksums_excluding_self"
-    },
-    {
-      "name": "09_LICENSE_AND_CITATION.md",
-      "role": "license_and_citation_boundary",
-      "size_bytes": 836,
-      "sha256": "ad1af43afd157c0a35d4352c7817093ca35266d808f3ee9569c887ad99712f9c"
-    },
-    {
-      "name": "10_Deep_Origin_Help_Us_Verify_English_20260620.zip",
-      "role": "english_help_us_verify_companion_package",
-      "size_bytes": 13864,
-      "sha256": "d266eb56c18d233c5f9867e2da06dc939d683a268b6afb281e858ab15c9e6bf3"
-    },
-    {
-      "name": "11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip",
-      "role": "arabic_help_us_verify_companion_package",
-      "size_bytes": 15025,
-      "sha256": "1e52dea83c8cb224f59d88c92d6d3afa36e662165513b6a23966c02f67198b06"
+      "bytes": 1981,
+      "sha256": "af9bef80aa28ff65b9faba149398ee78ca9def7397caed3e762c1f1ce5cf5523"
     }
-  ],
-  "result_commitment": "A later public version must report the J2C result whether it survives, fails, or receives a no-branch verdict.",
-  "sha256_policy": "08_SHA256SUMS.txt covers all sibling release files except the checksum ledger itself.",
-  "zenodo_keyword_focus": [
-    "Deep Origin Theory",
-    "pre-registration",
-    "pre-execution lock",
-    "modified gravity",
-    "scalar-tensor gravity",
-    "kinetic gravity braiding",
-    "Horndeski gravity",
-    "cosmological background",
-    "Jordan frame",
-    "physical metric",
-    "mass-radius scaling",
-    "gravitational lensing",
-    "falsifiability",
-    "reproducible research",
-    "open science",
-    "scientific verification support",
-    "AI-assisted verification",
-    "MOND",
-    "QUMOND"
   ]
 }
