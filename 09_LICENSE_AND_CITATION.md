@@ -4,10 +4,11 @@ Date: `2026-06-21`
 
 ## Citation
 
-Please cite the specific Zenodo record DOI for this cumulative result version:
+Please cite the specific Zenodo record DOI for this cumulative DO-K1
+pre-execution lock version:
 
 ```text
-10.5281/zenodo.20779214
+10.5281/zenodo.20785511
 ```
 
 The stable concept DOI for the public release series is:
@@ -36,6 +37,7 @@ acknowledgements retain their original attribution boundaries.
 
 ## Support Package Boundary
 
-The J2C runtime package and Help Us Verify companion packages are included as
-support and verification lanes. They do not request endorsement of the theory
-and do not expand the scientific claim beyond the public packet boundary.
+The J2C runtime package, Help Us Verify companion packages, and DO-K1 runtime
+package are included as support and verification lanes. They do not request
+endorsement of the theory and do not expand the scientific claim beyond the
+public packet boundary.

@@ -1,45 +1,39 @@
 cff-version: 1.2.0
 message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
-title: "Deep Origin Theory — J2C Result Release V1 Cumulative Checkpoint: Canonical J2R Rerun and Coefficient-Only Total-Scaling No-Go"
+title: "Deep Origin Theory — Updated Scientific Snapshot and DO-K1 Conditional Galactic Engine Public Pre-Execution Lock"
 type: report
 authors:
   - family-names: "Alhulays"
     given-names: "Osama"
     affiliation: "Independent Researcher"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://doi.org/10.5281/zenodo.20779214"
-doi: "10.5281/zenodo.20779214"
+url: "https://doi.org/10.5281/zenodo.20785511"
+doi: "10.5281/zenodo.20785511"
 date-released: "2026-06-21"
 abstract: >
-  Cumulative public J2C result checkpoint for Deep Origin Theory. The release
-  preserves the sequence from the earlier structural pre-execution lock through
-  the first no-admission execution, the exact finite J2R representative lock
-  without galaxy fitting, and the J2C rerun that produced a coefficient-only
-  total-scaling no-go for that representative. It also preserves the J2C
-  pre-execution capsule, reproducibility runtime, and Help Us Verify companion
-  packages as sibling public files. It does not retire all J2, does not decide
-  nonlinear K plus braiding, and does not claim MOND/QUMOND family defeat or
-  final cosmic closure.
+  Cumulative public Deep Origin Theory checkpoint that preserves the prior J2C
+  result release files as visible sibling files and adds the DO-K1 conditional
+  galactic-engine public pre-execution lock. The checkpoint freezes the exact
+  DO-K1 local field equation, global I0 boundary-condition policy, same-metric
+  rotation/lensing map, future NGC0247 exposed sign-topology challenge contract,
+  and comparator prelock before any galaxy execution. It claims no galaxy
+  result, no MOND/QUMOND family defeat, no SPARC fit, no origin derivation for
+  I0, and no final cosmic closure.
 keywords:
   - "Deep Origin Theory"
-  - "J2C"
-  - "J2R"
+  - "DO-K1"
   - "modified gravity"
-  - "scalar-tensor gravity"
-  - "kinetic gravity braiding"
-  - "Horndeski gravity"
-  - "cosmological background"
-  - "physical metric"
-  - "Jordan frame"
-  - "mass-radius scaling"
-  - "no-go result"
+  - "Khronon-Tensor gravity"
+  - "AQUAL"
+  - "QUMOND"
+  - "MOND"
+  - "galactic dynamics"
   - "gravitational lensing"
-  - "pre-registration"
+  - "same-metric lensing"
+  - "cosmological boundary condition"
+  - "I0"
   - "pre-execution lock"
   - "falsifiability"
   - "reproducible research"
-  - "scientific verification support"
-  - "AI-assisted verification"
   - "open science"
-  - "MOND"
-  - "QUMOND"
+  - "NGC0247"
