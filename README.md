@@ -3,13 +3,13 @@
 Current Zenodo record:
 
 ```text
-https://zenodo.org/records/20779148
+https://zenodo.org/records/20779188
 ```
 
 Specific DOI:
 
 ```text
-10.5281/zenodo.20779148
+10.5281/zenodo.20779188
 ```
 
 Stable concept DOI:

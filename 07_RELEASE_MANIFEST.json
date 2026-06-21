@@ -20,6 +20,7 @@
     "galaxy_fit_rescue",
     "NGC1003_repair"
   ],
+  "checksum_scope": "08_SHA256SUMS.txt covers the two packet ZIP files, 05_PUBLIC_RELEASE_INDEX.md, and this manifest; the checksum ledger intentionally excludes itself.",
   "files": [
     {
       "name": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_J2C_Result.zip",
@@ -33,8 +34,8 @@
     },
     {
       "name": "05_PUBLIC_RELEASE_INDEX.md",
-      "bytes": 1981,
-      "sha256": "af9bef80aa28ff65b9faba149398ee78ca9def7397caed3e762c1f1ce5cf5523"
+      "bytes": 2389,
+      "sha256": "8fc7669b9b6f538688acb17d304fc269d8071c63f7667964f9cc5fbc039bdfcf"
     }
   ]
 }
