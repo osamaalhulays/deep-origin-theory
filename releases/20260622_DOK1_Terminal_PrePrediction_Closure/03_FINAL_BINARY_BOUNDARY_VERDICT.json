@@ -1,0 +1,9 @@
+{
+  "public_verdict": "DOK1_NGC0247_CHALLENGE_TERMINATED_BEFORE_PREDICTION_GENERATION__PARENT_BOUNDARY_AUTHORITY_NOT_ESTABLISHED__NO_EMPIRICAL_MATCH_WAS_RUN",
+  "internal_boundary_verdict": "DOK1_BOUNDARY_DATUM_NOT_BOUNDED_BY_PARENT_AUTHORITY__NO_PREDICTIVE_GALACTIC_LOCK__DOK1_DISTINCT_NGC0247_CHALLENGE_CLOSED",
+  "source_gate": "artifacts/execution_20260622/DOK1_BOUNDARY_AUTHORITY_FINAL_BINARY_CLOSURE_GATE_V1",
+  "exact_selector_if_exists": null,
+  "amplitude_authority": "not_bounded_by_parent_authority",
+  "full_domain_insensitivity": "not_certified",
+  "prediction_lock": "not_generated"
+}

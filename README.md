@@ -1,17 +1,17 @@
-# Deep Origin Theory - DO-K1 vs NGC 247 Protocol Amendment 1
+# Deep Origin Theory - DO-K1 vs NGC 247 Terminal Pre-Prediction Closure
 
 Date prepared: `2026-06-22`
 
 Current Zenodo record:
 
 ```text
-https://zenodo.org/records/20794856
+https://zenodo.org/records/20798016
 ```
 
 Specific DOI:
 
 ```text
-10.5281/zenodo.20794856
+10.5281/zenodo.20798016
 ```
 
 Stable concept DOI:
@@ -27,11 +27,40 @@ https://github.com/osamaalhulays/deep-origin-theory
 ```
 
 This mirror is cumulative. It preserves the prior J2C result files, the Help Us
-Verify companions, the DO-K1 public pre-execution lock, and now adds Protocol
-Amendment 1 for the NGC 247 challenge as visible sibling files. A reader should
-not need earlier Zenodo versions to discover the scientific path.
+Verify companions, the DO-K1 public pre-execution lock, Protocol Amendment 1 for
+NGC 247, and now adds a short terminal pre-prediction closure for that public
+challenge under:
 
-## Latest Protocol Amendment
+```text
+releases/20260622_DOK1_Terminal_PrePrediction_Closure/
+```
+
+## Latest Closure
+
+```text
+DOK1_NGC0247_CHALLENGE_TERMINATED_BEFORE_PREDICTION_GENERATION
+__PARENT_BOUNDARY_AUTHORITY_NOT_ESTABLISHED
+__NO_EMPIRICAL_MATCH_WAS_RUN
+```
+
+The public DO-K1 vs NGC 247 challenge is closed before prediction generation.
+The public source carriers and comparator protocol were materialized, but the
+current DO-K1 parent action did not uniquely determine the local cosmological
+boundary datum required by the Helmholtz-like field equation. No observed NGC
+247 row was opened, no residual or likelihood was computed, and no empirical
+verdict concerning DO-K1, AQUAL, QUMOND, or MOND follows from this closure.
+
+## Terminal Closure Files
+
+1. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/01_TERMINAL_CLOSURE_NOTE_EN.md`
+2. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/02_TERMINAL_CLOSURE_NOTE_AR.md`
+3. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/03_FINAL_BINARY_BOUNDARY_VERDICT.json`
+4. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/04_PROTOCOL_TO_CLOSURE_LINEAGE.md`
+5. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/05_NO_PREDICTION_NO_OBSERVED_SIDE_RECEIPT.json`
+6. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/06_SCOPE_AND_NONCLAIMS.md`
+7. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/07_SHA256SUMS.txt`
+
+## Previous Protocol Amendment 1
 
 ```text
 DOK1_NGC0247_PUBLIC_PROTOCOL_AMENDMENT_READY
@@ -41,21 +70,12 @@ __NO_PREDICTION_ROWS
 __NO_RESULT_KNOWN
 ```
 
-This amendment freezes the comparator roster, global `I0` policy, symmetric
-nuisance treatment, EFE policy, observable taxonomy, topology endpoint, and
-final verdict grammar before any `DO-K1`, AQUAL, or QUMOND source-only
-prediction is generated.
+Protocol Amendment 1 froze the comparator roster, global `I0` policy,
+symmetric nuisance treatment, EFE policy, observable taxonomy, topology
+endpoint, and final verdict grammar before any `DO-K1`, AQUAL, or QUMOND
+source-only prediction was generated.
 
-The governing scope is deliberately narrow:
-
-```text
-C3 = historical fixed-QUMOND reference only, not governing
-C4 = EFE sensitivity only, not governing
-I0 = whole-domain policy, no best-value selection
-nuisance = baseline-only, no broad nuisance-robust claim
-```
-
-## Protocol Amendment Files
+## Protocol Amendment 1 Files
 
 1. `01_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_EN_20260622.zip`
 2. `02_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_AR_20260622.zip`

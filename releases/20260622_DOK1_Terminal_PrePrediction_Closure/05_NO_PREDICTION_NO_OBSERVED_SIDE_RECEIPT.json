@@ -1,0 +1,11 @@
+{
+  "observed_NGC0247_rows_opened": false,
+  "source_only_prediction_rows_generated": false,
+  "residuals_computed": false,
+  "likelihood_computed": false,
+  "boundary_phase_fitted": false,
+  "boundary_amplitude_fitted": false,
+  "solver_failure_claimed": false,
+  "data_unavailable_claimed": false,
+  "empirical_match_was_run": false
+}
