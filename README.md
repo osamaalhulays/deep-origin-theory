@@ -1,6 +1,6 @@
-# Deep Origin Theory - Updated Scientific Snapshot and DO-K1 Public Pre-Execution Lock
+# Deep Origin Theory - DO-K1 vs NGC 247 Protocol Amendment 1
 
-Date prepared: `2026-06-21`
+Date prepared: `2026-06-22`
 
 Current Zenodo record:
 
@@ -26,12 +26,46 @@ GitHub mirror:
 https://github.com/osamaalhulays/deep-origin-theory
 ```
 
-This release is cumulative. It preserves the prior J2C result release files and
-adds the DO-K1 conditional galactic-engine public pre-execution lock as visible
-sibling files. A reader should not need earlier Zenodo versions to discover the
-J2C capsule/runtime or the Help Us Verify packages.
+This mirror is cumulative. It preserves the prior J2C result files, the Help Us
+Verify companions, the DO-K1 public pre-execution lock, and now adds Protocol
+Amendment 1 for the NGC 247 challenge as visible sibling files. A reader should
+not need earlier Zenodo versions to discover the scientific path.
 
-## New Checkpoint
+## Latest Protocol Amendment
+
+```text
+DOK1_NGC0247_PUBLIC_PROTOCOL_AMENDMENT_READY
+__COMPARATOR_AND_ADJUDICATION_LOCK_COMPLETE
+__NO_SOLVER_RUN
+__NO_PREDICTION_ROWS
+__NO_RESULT_KNOWN
+```
+
+This amendment freezes the comparator roster, global `I0` policy, symmetric
+nuisance treatment, EFE policy, observable taxonomy, topology endpoint, and
+final verdict grammar before any `DO-K1`, AQUAL, or QUMOND source-only
+prediction is generated.
+
+The governing scope is deliberately narrow:
+
+```text
+C3 = historical fixed-QUMOND reference only, not governing
+C4 = EFE sensitivity only, not governing
+I0 = whole-domain policy, no best-value selection
+nuisance = baseline-only, no broad nuisance-robust claim
+```
+
+## Protocol Amendment Files
+
+1. `01_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_EN_20260622.zip`
+2. `02_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_AR_20260622.zip`
+3. `03_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Capsule_20260622.zip`
+4. `04_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Runtime_Verifier_20260622.zip`
+5. `PUBLIC_RELEASE_README_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.md`
+6. `PUBLIC_RELEASE_MANIFEST_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.json`
+7. `PUBLIC_RELEASE_SHA256SUMS_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.txt`
+
+## Previous DO-K1 Pre-Execution Checkpoint
 
 ```text
 DOK1_PUBLIC_PREEXECUTION_LOCK_READY

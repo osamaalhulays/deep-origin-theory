@@ -1,0 +1,42 @@
+{
+  "object": "PUBLIC_RELEASE_MANIFEST_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01",
+  "title": "Deep Origin Theory -- DO-K1 vs NGC 247 Protocol Amendment 1: Comparator, Nuisance, I0, EFE, and Adjudication Lock",
+  "date": "2026-06-22",
+  "primary_verdict": "DOK1_NGC0247_PUBLIC_PROTOCOL_AMENDMENT_READY__COMPARATOR_AND_ADJUDICATION_LOCK_COMPLETE__NO_SOLVER_RUN__NO_PREDICTION_ROWS__NO_RESULT_KNOWN",
+  "online_release_type": "public_protocol_amendment",
+  "related_preexecution_record": "https://zenodo.org/records/20785511",
+  "solver_executed": false,
+  "prediction_rows_emitted": false,
+  "observed_side_opened": false,
+  "result_known": false,
+  "comparator_roster": {
+    "C0": "NEWTONIAN_G0_BARYON_ONLY_CONTROL",
+    "C1": "SAME_MU_NUMERICAL_AQUAL_G0_CONTROL",
+    "C2": "SAME_MU_COMMON_SOURCE_NUMERICAL_QUMOND_G0_CONTROL",
+    "C3": "HISTORICAL_FIXED_QUMOND_CURRENT_STACK_REFERENCE__NON_GOVERNING",
+    "C4": "EFE_LANES__SENSITIVITY_ONLY_NOT_GOVERNING"
+  },
+  "I0_policy": "PREDECLARED_COSMOLOGY_ONLY_DOMAIN_WITH_WHOLE_DOMAIN_ROBUST_ADJUDICATION",
+  "nuisance_scope": "single governing baseline roster only; no broad nuisance-robust claim",
+  "files": [
+    {
+      "path": "01_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_EN_20260622.zip",
+      "sha256": "f8dac3dfb6f1fcb27e26c2954f9624064dc28a4d88ba48861e5787995502ee28"
+    },
+    {
+      "path": "02_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_AR_20260622.zip",
+      "sha256": "f8dac3dfb6f1fcb27e26c2954f9624064dc28a4d88ba48861e5787995502ee28"
+    },
+    {
+      "path": "03_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Capsule_20260622.zip",
+      "sha256": "928f44e6144cd28436dd218f2eddfb4690ffa490787d10274075046d0bd82bc6"
+    },
+    {
+      "path": "04_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Runtime_Verifier_20260622.zip",
+      "sha256": "5ccd8b00f8c794da727b90b8f294cc0ba129d88e421400ba4917897ecf540462"
+    }
+  ],
+  "proposed_git_commit_message": "Add DO-K1 NGC0247 protocol amendment 01",
+  "proposed_git_tag": "dok1-ngc0247-protocol-amendment-01-20260622"
+}
+
