@@ -5,13 +5,13 @@ Date prepared: `2026-06-22`
 Current Zenodo record:
 
 ```text
-https://zenodo.org/records/20785511
+https://zenodo.org/records/20794856
 ```
 
 Specific DOI:
 
 ```text
-10.5281/zenodo.20785511
+10.5281/zenodo.20794856
 ```
 
 Stable concept DOI:
