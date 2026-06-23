@@ -1,17 +1,11 @@
-# Deep Origin Theory - DO-K1 vs NGC 247 Terminal Pre-Prediction Closure
+# Deep Origin Research Program - Reader Edition v1.0.0
 
-Date prepared: `2026-06-22`
+Date prepared: `2026-06-24`
 
-Current Zenodo record:
-
-```text
-https://zenodo.org/records/20798016
-```
-
-Specific DOI:
+GitHub mirror:
 
 ```text
-10.5281/zenodo.20798016
+https://github.com/osamaalhulays/deep-origin-theory
 ```
 
 Stable concept DOI:
@@ -20,106 +14,95 @@ Stable concept DOI:
 10.5281/zenodo.20542921
 ```
 
-GitHub mirror:
+Latest public reader-edition file in this mirror:
 
 ```text
-https://github.com/osamaalhulays/deep-origin-theory
+16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip
 ```
 
-This mirror is cumulative. It preserves the prior J2C result files, the Help Us
-Verify companions, the DO-K1 public pre-execution lock, Protocol Amendment 1 for
-NGC 247, and now adds a short terminal pre-prediction closure for that public
-challenge under:
+SHA-256:
 
 ```text
-releases/20260622_DOK1_Terminal_PrePrediction_Closure/
+9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418
 ```
 
-## Latest Closure
+## Current Public Identity
+
+Deep Origin is presented here as a governed research program, not as a completed
+predictive theory.
+
+The current reader edition separates:
+
+- public headline-safe status,
+- bounded no-go and pre-prediction closure records,
+- deferred local gains requiring compact public capsules,
+- and future requirements for any exact predictive action.
+
+Legacy project/repository name: `Deep Origin Theory`.
+
+## Current Scientific Ceiling
+
+This mirror does not claim:
+
+- final cosmic closure,
+- MOND/QUMOND family defeat,
+- a completed successor action,
+- an observed-data DO-K1 result on NGC247,
+- or peer-review certification.
+
+## Main Reader-Edition File
+
+Use:
 
 ```text
-DOK1_NGC0247_CHALLENGE_TERMINATED_BEFORE_PREDICTION_GENERATION
-__PARENT_BOUNDARY_AUTHORITY_NOT_ESTABLISHED
-__NO_EMPIRICAL_MATCH_WAS_RUN
+16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip
 ```
 
-The public DO-K1 vs NGC 247 challenge is closed before prediction generation.
-The public source carriers and comparator protocol were materialized, but the
-current DO-K1 parent action did not uniquely determine the local cosmological
-boundary datum required by the Helmholtz-like field equation. No observed NGC
-247 row was opened, no residual or likelihood was computed, and no empirical
-verdict concerning DO-K1, AQUAL, QUMOND, or MOND follows from this closure.
+It contains:
 
-## Terminal Closure Files
+- English current-status synthesis PDF,
+- Arabic current-status synthesis PDF,
+- public claim/evidence matrix,
+- public results and no-go atlas,
+- public quantitative results page,
+- reproducibility and provenance index,
+- evidence pointer registry,
+- reproducibility ledger,
+- references and prior-art notes,
+- deferred local results ledger,
+- finalization status,
+- citation and license files,
+- manifest and SHA256 ledger.
 
-1. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/01_TERMINAL_CLOSURE_NOTE_EN.md`
-2. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/02_TERMINAL_CLOSURE_NOTE_AR.md`
-3. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/03_FINAL_BINARY_BOUNDARY_VERDICT.json`
-4. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/04_PROTOCOL_TO_CLOSURE_LINEAGE.md`
-5. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/05_NO_PREDICTION_NO_OBSERVED_SIDE_RECEIPT.json`
-6. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/06_SCOPE_AND_NONCLAIMS.md`
-7. `releases/20260622_DOK1_Terminal_PrePrediction_Closure/07_SHA256SUMS.txt`
+## Previous Public Records Preserved In This Mirror
 
-## Previous Protocol Amendment 1
+This repository remains cumulative. It preserves earlier public checkpoints,
+including:
+
+- J2C/J2R result materials,
+- Help Us Verify companions,
+- DO-K1 public pre-execution lock,
+- DO-K1 vs NGC247 Protocol Amendment 1,
+- and DO-K1 vs NGC247 terminal pre-prediction closure.
+
+Those earlier materials remain historically important, but the current front
+door is the reader edition above.
+
+## Verification
+
+After downloading the reader-edition zip, verify inside the extracted folder:
+
+```bash
+shasum -a 256 -c SHA256SUMS.txt
+```
+
+Expected result:
 
 ```text
-DOK1_NGC0247_PUBLIC_PROTOCOL_AMENDMENT_READY
-__COMPARATOR_AND_ADJUDICATION_LOCK_COMPLETE
-__NO_SOLVER_RUN
-__NO_PREDICTION_ROWS
-__NO_RESULT_KNOWN
+all listed files OK
 ```
-
-Protocol Amendment 1 froze the comparator roster, global `I0` policy,
-symmetric nuisance treatment, EFE policy, observable taxonomy, topology
-endpoint, and final verdict grammar before any `DO-K1`, AQUAL, or QUMOND
-source-only prediction was generated.
-
-## Protocol Amendment 1 Files
-
-1. `01_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_EN_20260622.zip`
-2. `02_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_AR_20260622.zip`
-3. `03_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Capsule_20260622.zip`
-4. `04_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Runtime_Verifier_20260622.zip`
-5. `PUBLIC_RELEASE_README_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.md`
-6. `PUBLIC_RELEASE_MANIFEST_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.json`
-7. `PUBLIC_RELEASE_SHA256SUMS_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.txt`
-
-## Previous DO-K1 Pre-Execution Checkpoint
-
-```text
-DOK1_PUBLIC_PREEXECUTION_LOCK_READY
-__I0_POLICY_FROZEN
-__NO_GALAXY_RESULT_KNOWN
-```
-
-The I0 handling policy is frozen as:
-
-```text
-PREDECLARED_COSMOLOGY_ONLY_DOMAIN_WITH_ROBUST_ENVELOPE_ADJUDICATION
-```
-
-No NGC0247 rows, SPARC rows, galaxy residuals, or fits are used in this release.
-
-## Files
-
-1. `01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_DOK1_PreExecution.zip`
-2. `02_Deep_Origin_Updated_Scientific_Packet_AR_20260621_DOK1_PreExecution.zip`
-3. `03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip`
-4. `04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip`
-5. `05_PUBLIC_RELEASE_INDEX.md`
-6. `06_CHANGELOG_FROM_RECORD_20779214_TO_DOK1_PREEXECUTION.md`
-7. `07_RELEASE_MANIFEST.json`
-8. `08_SHA256SUMS.txt`
-9. `09_LICENSE_AND_CITATION.md`
-10. `10_Deep_Origin_Help_Us_Verify_English_20260620.zip`
-11. `11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip`
-12. `12_Deep_Origin_DOK1_Public_PreExecution_Lock_EN_20260621.zip`
-13. `13_Deep_Origin_DOK1_Public_PreExecution_Lock_AR_20260621.zip`
-14. `14_Deep_Origin_DOK1_Public_PreExecution_Lock_Capsule_20260621.zip`
-15. `15_Deep_Origin_DOK1_Public_PreExecution_Lock_Runtime_20260621.zip`
 
 ## Nonclaims
 
-This release does not claim final cosmic closure, an origin derivation for I0,
-a galaxy result, MOND defeat, QUMOND defeat, or a SPARC fit.
+Checksums and public deposits support integrity and provenance. They are not
+peer review, independent replication, or proof of a completed physical theory.

@@ -1,39 +1,29 @@
 cff-version: 1.2.0
-message: "If you use this public checkpoint, cite the Zenodo record DOI or the stable concept DOI."
-title: "Deep Origin Theory — Updated Scientific Snapshot and DO-K1 Conditional Galactic Engine Public Pre-Execution Lock"
-type: report
+message: "If you use this reader edition, cite it as a standalone synthesis and also cite the underlying public records that support any specific claim."
+title: "Deep Origin Research Program Reader Edition v1.0.0"
+type: dataset
 authors:
-  - family-names: "Alhulays"
+  - family-names: "Al-Hulays"
     given-names: "Osama"
-    affiliation: "Independent Researcher"
+version: "v1.0.0"
+date-released: "2026-06-24"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
-url: "https://doi.org/10.5281/zenodo.20785511"
-doi: "10.5281/zenodo.20785511"
-date-released: "2026-06-21"
-abstract: >
-  Cumulative public Deep Origin Theory checkpoint that preserves the prior J2C
-  result release files as visible sibling files and adds the DO-K1 conditional
-  galactic-engine public pre-execution lock. The checkpoint freezes the exact
-  DO-K1 local field equation, global I0 boundary-condition policy, same-metric
-  rotation/lensing map, future NGC0247 exposed sign-topology challenge contract,
-  and comparator prelock before any galaxy execution. It claims no galaxy
-  result, no MOND/QUMOND family defeat, no SPARC fit, no origin derivation for
-  I0, and no final cosmic closure.
+abstract: "Standalone reader-facing synthesis of current public status, bounded results, nonclaims, and reproducibility pointers. Not peer reviewed."
 keywords:
-  - "Deep Origin Theory"
-  - "DO-K1"
-  - "modified gravity"
-  - "Khronon-Tensor gravity"
-  - "AQUAL"
-  - "QUMOND"
-  - "MOND"
-  - "galactic dynamics"
-  - "gravitational lensing"
-  - "same-metric lensing"
-  - "cosmological boundary condition"
-  - "I0"
-  - "pre-execution lock"
-  - "falsifiability"
-  - "reproducible research"
-  - "open science"
-  - "NGC0247"
+  - Deep Origin Research Program
+  - QCT
+  - DO-K1
+  - modified gravity
+  - MOND
+  - QUMOND
+  - reproducibility
+license: "CC-BY-4.0"
+preferred-citation:
+  type: report
+  title: "Deep Origin Research Program Reader Edition v1.0.0"
+  authors:
+    - family-names: "Al-Hulays"
+      given-names: "Osama"
+  version: "v1.0.0"
+  date-released: "2026-06-24"
+  repository-code: "https://github.com/osamaalhulays/deep-origin-theory"

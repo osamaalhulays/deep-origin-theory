@@ -1,102 +1,180 @@
 {
-  "release_object": "Deep_Origin_Theory_DOK1_PreExecution_Cumulative_15_File_Public_Set",
-  "prepared_date": "2026-06-21",
-  "publication_state": "cumulative_sibling_file_set_for_zenodo_and_github_mirror",
+  "release_object": "Deep_Origin_Research_Program_Reader_Edition_v1_0_0_GitHub_Mirror",
+  "prepared_date": "2026-06-24",
+  "publication_state": "standalone_reader_edition_with_cumulative_historical_mirror",
   "concept_doi": "10.5281/zenodo.20542921",
   "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
-  "accumulation_rule": "This release preserves the prior J2C result release files and adds the DO-K1 pre-execution lock files as visible sibling public files.",
-  "current_checkpoint": "DOK1_PUBLIC_PREEXECUTION_LOCK_READY__I0_POLICY_FROZEN__NO_GALAXY_RESULT_KNOWN",
-  "I0_handling_mode": "PREDECLARED_COSMOLOGY_ONLY_DOMAIN_WITH_ROBUST_ENVELOPE_ADJUDICATION",
-  "no_result_known": true,
-  "next_execution": "DOK1_NGC0247_EXPOSED_SIGN_TOPOLOGY_CHALLENGE_V1",
-  "nonclaims": [
-    "final_cosmic_closure",
-    "origin_derivation_for_I0",
-    "galaxy_result",
-    "MOND_defeat",
-    "QUMOND_defeat",
-    "SPARC_fit"
+  "current_front_door_file": "16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip",
+  "current_front_door_sha256": "9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418",
+  "scientific_ceiling": {
+    "final_cosmic_closure_claimed": false,
+    "mond_qumond_family_defeat_claimed": false,
+    "completed_successor_action_claimed": false,
+    "dok1_ngc247_observed_empirical_result_claimed": false,
+    "peer_review_certification_claimed": false
+  },
+  "accumulation_rule": "This mirror preserves earlier public checkpoints as visible historical sibling files while making the v1.0.0 reader edition the current cold-reader front door.",
+  "manifest_file_policy": "This manifest lists payload files and excludes itself plus 08_SHA256SUMS.txt to avoid self-reference.",
+  "payload_file_count": 31,
+  "control_files": [
+    "07_RELEASE_MANIFEST.json",
+    "08_SHA256SUMS.txt"
   ],
   "files": [
     {
-      "name": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_DOK1_PreExecution.zip",
-      "role": "main_english_scientific_packet_current_state",
-      "size_bytes": 30788069,
+      "path": "01_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_EN_20260622.zip",
+      "bytes": 27636,
+      "sha256": "f8dac3dfb6f1fcb27e26c2954f9624064dc28a4d88ba48861e5787995502ee28"
+    },
+    {
+      "path": "01_Deep_Origin_Updated_Scientific_Packet_EN_20260621_DOK1_PreExecution.zip",
+      "bytes": 30788069,
       "sha256": "a19dc2df9129662c07d9ea4fbe306ff3cac71464f7f9026f4ee1fe72749d97c5"
     },
     {
-      "name": "02_Deep_Origin_Updated_Scientific_Packet_AR_20260621_DOK1_PreExecution.zip",
-      "role": "arabic_public_state_access_layer_current_state",
-      "size_bytes": 30295427,
+      "path": "02_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_AR_20260622.zip",
+      "bytes": 27636,
+      "sha256": "f8dac3dfb6f1fcb27e26c2954f9624064dc28a4d88ba48861e5787995502ee28"
+    },
+    {
+      "path": "02_Deep_Origin_Updated_Scientific_Packet_AR_20260621_DOK1_PreExecution.zip",
+      "bytes": 30295427,
       "sha256": "7e76355c577543d11f26e4cb4a8e296e7f162132101a18d652c5e3a471190cad"
     },
     {
-      "name": "03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip",
-      "role": "preserved_j2c_preexecution_capsule",
-      "size_bytes": 25240,
+      "path": "03_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Capsule_20260622.zip",
+      "bytes": 24721,
+      "sha256": "928f44e6144cd28436dd218f2eddfb4690ffa490787d10274075046d0bd82bc6"
+    },
+    {
+      "path": "03_Deep_Origin_J2C_Public_PreExecution_Capsule_V1.zip",
+      "bytes": 25240,
       "sha256": "1e7c5599348353b4c5b701bae0d0e9dbe6d648c5252ea70b66fe53e9eaf9d0d5"
     },
     {
-      "name": "04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip",
-      "role": "preserved_j2c_runtime_support",
-      "size_bytes": 78826,
+      "path": "04_Deep_Origin_DOK1_NGC0247_Protocol_Amendment_01_Runtime_Verifier_20260622.zip",
+      "bytes": 34822,
+      "sha256": "5ccd8b00f8c794da727b90b8f294cc0ba129d88e421400ba4917897ecf540462"
+    },
+    {
+      "path": "04_Deep_Origin_J2C_Reproducibility_Runtime_V1.zip",
+      "bytes": 78826,
       "sha256": "8d0cade602af81d8bd97ffe356b98b1358f029a56ff06026a4ab625e498dbea1"
     },
     {
-      "name": "05_PUBLIC_RELEASE_INDEX.md",
-      "role": "human_cumulative_release_index",
-      "size_bytes": 1997,
-      "sha256": "5426a73707af6006b1c6c60fb92b6a8b59c565a740e12eea379a6df4a5287bae"
+      "path": "05_PUBLIC_RELEASE_INDEX.md",
+      "bytes": 2185,
+      "sha256": "9c0a0591d4f2f210a84f9b44e47172c737abf97870d3d1f5db145241ce462d84"
     },
     {
-      "name": "06_CHANGELOG_FROM_RECORD_20779214_TO_DOK1_PREEXECUTION.md",
-      "role": "changelog_from_j2c_result_to_dok1_lock",
-      "size_bytes": 664,
+      "path": "06_CHANGELOG_FROM_RECORD_20779214_TO_DOK1_PREEXECUTION.md",
+      "bytes": 664,
       "sha256": "5e49ddac6ac7030f4b762172c78304f6305e7b83ee6691010cde83140efb804d"
     },
     {
-      "name": "09_LICENSE_AND_CITATION.md",
-      "role": "license_and_citation_boundary",
-      "size_bytes": 1156,
+      "path": "09_LICENSE_AND_CITATION.md",
+      "bytes": 1156,
       "sha256": "e7ee8df6c798b5e9d195bb4689945b72c2794a696221de170bd0747c8644a1fc"
     },
     {
-      "name": "10_Deep_Origin_Help_Us_Verify_English_20260620.zip",
-      "role": "english_help_us_verify_companion_package",
-      "size_bytes": 13864,
+      "path": "10_Deep_Origin_Help_Us_Verify_English_20260620.zip",
+      "bytes": 13864,
       "sha256": "d266eb56c18d233c5f9867e2da06dc939d683a268b6afb281e858ab15c9e6bf3"
     },
     {
-      "name": "11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip",
-      "role": "arabic_help_us_verify_companion_package",
-      "size_bytes": 15025,
+      "path": "11_Deep_Origin_Help_Us_Verify_Arabic_20260620.zip",
+      "bytes": 15025,
       "sha256": "1e52dea83c8cb224f59d88c92d6d3afa36e662165513b6a23966c02f67198b06"
     },
     {
-      "name": "12_Deep_Origin_DOK1_Public_PreExecution_Lock_EN_20260621.zip",
-      "role": "dok1_preexecution_lock_english",
-      "size_bytes": 9078,
+      "path": "12_Deep_Origin_DOK1_Public_PreExecution_Lock_EN_20260621.zip",
+      "bytes": 9078,
       "sha256": "aef0889aab35ca244f2a92b0716ef8419d28b936b8bab3d8dd268682b7218ed8"
     },
     {
-      "name": "13_Deep_Origin_DOK1_Public_PreExecution_Lock_AR_20260621.zip",
-      "role": "dok1_preexecution_lock_arabic",
-      "size_bytes": 9123,
+      "path": "13_Deep_Origin_DOK1_Public_PreExecution_Lock_AR_20260621.zip",
+      "bytes": 9123,
       "sha256": "1c8e7ee7d2a829cb148c58462e3fe51b7a18f194bb58b46353ae82a460f75324"
     },
     {
-      "name": "14_Deep_Origin_DOK1_Public_PreExecution_Lock_Capsule_20260621.zip",
-      "role": "dok1_preexecution_lock_capsule",
-      "size_bytes": 9078,
+      "path": "14_Deep_Origin_DOK1_Public_PreExecution_Lock_Capsule_20260621.zip",
+      "bytes": 9078,
       "sha256": "aef0889aab35ca244f2a92b0716ef8419d28b936b8bab3d8dd268682b7218ed8"
     },
     {
-      "name": "15_Deep_Origin_DOK1_Public_PreExecution_Lock_Runtime_20260621.zip",
-      "role": "dok1_preexecution_lock_runtime",
-      "size_bytes": 5040,
+      "path": "15_Deep_Origin_DOK1_Public_PreExecution_Lock_Runtime_20260621.zip",
+      "bytes": 5040,
       "sha256": "96b4b5984c7cbd9e80b5fffbcfb44fe0b5a5e6372578c342ffb243876e77f9c9"
+    },
+    {
+      "path": "16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip",
+      "bytes": 370861,
+      "sha256": "9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418"
+    },
+    {
+      "path": "CITATION.cff",
+      "bytes": 1011,
+      "sha256": "114806fe97a64a8afa7e7366e620a2c11f4bae280976afbea0c5037c2d9719dc"
+    },
+    {
+      "path": "PUBLIC_RELEASE_MANIFEST_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.json",
+      "bytes": 2048,
+      "sha256": "4776044230b048e7b6386cf33f9184b9aabc022f8fb41b2b44d877b175510b20"
+    },
+    {
+      "path": "PUBLIC_RELEASE_README_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.md",
+      "bytes": 1632,
+      "sha256": "537b9683a3d302950823d611d530e8483a766ebf086769524155195defe7a992"
+    },
+    {
+      "path": "PUBLIC_RELEASE_README_20260622_DOK1_NGC0247_TERMINAL_PREPREDICTION_CLOSURE.md",
+      "bytes": 1854,
+      "sha256": "4f2520cde1b1ce2cc8879817aacf0fa932d3d389ba4381c661321478e6afe15d"
+    },
+    {
+      "path": "PUBLIC_RELEASE_SHA256SUMS_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.txt",
+      "bytes": 547,
+      "sha256": "af1b00d783ccc2ee3666f4a4bead199dfd65cf0b442220dc9ce34a05a43e8a26"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2448,
+      "sha256": "dd5ec996af71190a376dabbe2ddd711b882c2f6b28e3e557522c24ad236965b9"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/01_TERMINAL_CLOSURE_NOTE_EN.md",
+      "bytes": 1426,
+      "sha256": "fb25f2956ad19acb54f78c17e70f6b9f0be12630bc7aeec43905b758e4567601"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/02_TERMINAL_CLOSURE_NOTE_AR.md",
+      "bytes": 1475,
+      "sha256": "e3d3c7faab461b1d0c8ee63b73cd4f0c4137a7b77d937b4873e93e0ae23886d7"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/03_FINAL_BINARY_BOUNDARY_VERDICT.json",
+      "bytes": 599,
+      "sha256": "53c089627d8812edee5e3f48bb3d9d8eca50643e92da6910b93092136b3e2087"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/04_PROTOCOL_TO_CLOSURE_LINEAGE.md",
+      "bytes": 796,
+      "sha256": "623aff2aeb591c7ca3a32e35548d55fb368001f72551300f64bc63d8100d2a15"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/05_NO_PREDICTION_NO_OBSERVED_SIDE_RECEIPT.json",
+      "bytes": 337,
+      "sha256": "0156c208c4055a891242802a2176342fa936dacae85deceeb3fdb0139470e6c9"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/06_SCOPE_AND_NONCLAIMS.md",
+      "bytes": 498,
+      "sha256": "ad111cdb7322003956f4774422c5e7ae91122c9f756bd42c8196cd2bc2be13ff"
+    },
+    {
+      "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/07_SHA256SUMS.txt",
+      "bytes": 603,
+      "sha256": "283c03aab8e48fec04721d7b0e30b4ebf6541b8d3d5b69b14593754503711744"
     }
-  ],
-  "zenodo_record": "https://zenodo.org/records/20785511",
-  "specific_doi": "10.5281/zenodo.20785511"
+  ]
 }
