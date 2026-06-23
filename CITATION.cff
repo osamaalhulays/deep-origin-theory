@@ -1,11 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this reader edition, cite it as a standalone synthesis and also cite the underlying public records that support any specific claim."
-title: "Deep Origin Research Program Reader Edition v1.0.0"
+title: "Deep Origin Research Program Reader Edition v1.0.1"
 type: dataset
+doi: "10.5281/zenodo.20821252"
 authors:
   - family-names: "Al-Hulays"
     given-names: "Osama"
-version: "v1.0.0"
+version: "v1.0.1"
 date-released: "2026-06-24"
 repository-code: "https://github.com/osamaalhulays/deep-origin-theory"
 abstract: "Standalone reader-facing synthesis of current public status, bounded results, nonclaims, and reproducibility pointers. Not peer reviewed."
@@ -20,10 +21,11 @@ keywords:
 license: "CC-BY-4.0"
 preferred-citation:
   type: report
-  title: "Deep Origin Research Program Reader Edition v1.0.0"
+  title: "Deep Origin Research Program Reader Edition v1.0.1"
   authors:
     - family-names: "Al-Hulays"
       given-names: "Osama"
-  version: "v1.0.0"
+  version: "v1.0.1"
+  doi: "10.5281/zenodo.20821252"
   date-released: "2026-06-24"
   repository-code: "https://github.com/osamaalhulays/deep-origin-theory"

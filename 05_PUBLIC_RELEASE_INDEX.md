@@ -1,18 +1,33 @@
-# Public Release Index - Deep Origin Research Program Reader Edition v1.0.0
+# Public Release Index - Deep Origin Research Program Reader Edition v1.0.1
 
 Date prepared: `2026-06-24`
 
 Primary file:
 
 ```text
-16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip
+17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip
 ```
 
 SHA-256:
 
 ```text
-9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418
+9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4
 ```
+
+Zenodo version DOI:
+
+```text
+10.5281/zenodo.20821252
+```
+
+Zenodo concept DOI for this reader-edition line:
+
+```text
+10.5281/zenodo.20821128
+```
+
+Version `v1.0.1` corrects the Arabic rendering of the author name to
+`أسامه الهليس`. No scientific content or claim scope changed from `v1.0.0`.
 
 ## Current Front Door
 
@@ -66,6 +81,7 @@ The reader-edition zip contains:
 
 The repository remains cumulative. Earlier visible sibling files preserve:
 
+- Reader Edition `v1.0.0`,
 - the updated 2026-06-21 scientific packets,
 - the J2C capsule and runtime,
 - Help Us Verify English and Arabic companions,

@@ -1,11 +1,14 @@
 {
-  "release_object": "Deep_Origin_Research_Program_Reader_Edition_v1_0_0_GitHub_Mirror",
+  "release_object": "Deep_Origin_Research_Program_Reader_Edition_v1_0_1_GitHub_Mirror",
   "prepared_date": "2026-06-24",
   "publication_state": "standalone_reader_edition_with_cumulative_historical_mirror",
-  "concept_doi": "10.5281/zenodo.20542921",
+  "reader_edition_version_doi": "10.5281/zenodo.20821252",
+  "reader_edition_concept_doi": "10.5281/zenodo.20821128",
+  "legacy_project_concept_doi": "10.5281/zenodo.20542921",
   "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
-  "current_front_door_file": "16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip",
-  "current_front_door_sha256": "9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418",
+  "current_front_door_file": "17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip",
+  "current_front_door_sha256": "9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4",
+  "correction_note": "v1.0.1 corrects the Arabic rendering of the author name to أسامه الهليس; no scientific claims changed from v1.0.0.",
   "scientific_ceiling": {
     "final_cosmic_closure_claimed": false,
     "mond_qumond_family_defeat_claimed": false,
@@ -13,9 +16,9 @@
     "dok1_ngc247_observed_empirical_result_claimed": false,
     "peer_review_certification_claimed": false
   },
-  "accumulation_rule": "This mirror preserves earlier public checkpoints as visible historical sibling files while making the v1.0.0 reader edition the current cold-reader front door.",
+  "accumulation_rule": "This mirror preserves earlier public checkpoints as visible historical sibling files while making the v1.0.1 reader edition the current cold-reader front door.",
   "manifest_file_policy": "This manifest lists payload files and excludes itself plus 08_SHA256SUMS.txt to avoid self-reference.",
-  "payload_file_count": 31,
+  "payload_file_count": 32,
   "control_files": [
     "07_RELEASE_MANIFEST.json",
     "08_SHA256SUMS.txt"
@@ -63,8 +66,8 @@
     },
     {
       "path": "05_PUBLIC_RELEASE_INDEX.md",
-      "bytes": 2185,
-      "sha256": "9c0a0591d4f2f210a84f9b44e47172c737abf97870d3d1f5db145241ce462d84"
+      "bytes": 2514,
+      "sha256": "914043e025f8af00915ed1a960b1f3e0ac024fb7dc121b7c6171c3e9afc06009"
     },
     {
       "path": "06_CHANGELOG_FROM_RECORD_20779214_TO_DOK1_PREEXECUTION.md",
@@ -112,9 +115,14 @@
       "sha256": "9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418"
     },
     {
+      "path": "17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip",
+      "bytes": 371168,
+      "sha256": "9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4"
+    },
+    {
       "path": "CITATION.cff",
-      "bytes": 1011,
-      "sha256": "114806fe97a64a8afa7e7366e620a2c11f4bae280976afbea0c5037c2d9719dc"
+      "bytes": 1075,
+      "sha256": "d06843f0db213ec80f1970c7e66c3144ff61861c4cec12de22e57539a76454a5"
     },
     {
       "path": "PUBLIC_RELEASE_MANIFEST_20260622_DOK1_NGC0247_PROTOCOL_AMENDMENT_01.json",
@@ -138,8 +146,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2448,
-      "sha256": "dd5ec996af71190a376dabbe2ddd711b882c2f6b28e3e557522c24ad236965b9"
+      "bytes": 2800,
+      "sha256": "63f9bf988af21c72e4ea263845fa61f93d7a6e1e69c473ed0359841987339550"
     },
     {
       "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/01_TERMINAL_CLOSURE_NOTE_EN.md",

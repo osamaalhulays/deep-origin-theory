@@ -1,4 +1,4 @@
-# Deep Origin Research Program - Reader Edition v1.0.0
+# Deep Origin Research Program - Reader Edition v1.0.1
 
 Date prepared: `2026-06-24`
 
@@ -8,7 +8,19 @@ GitHub mirror:
 https://github.com/osamaalhulays/deep-origin-theory
 ```
 
-Stable concept DOI:
+Reader-edition version DOI:
+
+```text
+10.5281/zenodo.20821252
+```
+
+Reader-edition concept DOI:
+
+```text
+10.5281/zenodo.20821128
+```
+
+Historical project concept DOI:
 
 ```text
 10.5281/zenodo.20542921
@@ -17,14 +29,18 @@ Stable concept DOI:
 Latest public reader-edition file in this mirror:
 
 ```text
-16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip
+17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip
 ```
 
 SHA-256:
 
 ```text
-9a9b2c02bd806cb03dc7d1d6484829b46fcbd6405e345ba7cb5a379639090418
+9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4
 ```
+
+Version `v1.0.1` corrects the Arabic rendering of the author name to
+`أسامه الهليس`. No scientific claims, evidence ceilings, or public nonclaims
+changed from `v1.0.0`.
 
 ## Current Public Identity
 
@@ -55,7 +71,7 @@ This mirror does not claim:
 Use:
 
 ```text
-16_Deep_Origin_Research_Program_Reader_Edition_v1.0.0_20260624.zip
+17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip
 ```
 
 It contains:
@@ -79,6 +95,7 @@ It contains:
 This repository remains cumulative. It preserves earlier public checkpoints,
 including:
 
+- Reader Edition `v1.0.0`,
 - J2C/J2R result materials,
 - Help Us Verify companions,
 - DO-K1 public pre-execution lock,
