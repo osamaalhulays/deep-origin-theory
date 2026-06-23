@@ -35,12 +35,8 @@ Latest public reader-edition file in this mirror:
 SHA-256:
 
 ```text
-9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4
+e8b9ae36665b2f91b17212b2f528c08b82c0ea9d1a369c8ce33073cae4a53354
 ```
-
-Version `v1.0.1` corrects the Arabic rendering of the author name to
-`أسامه الهليس`. No scientific claims, evidence ceilings, or public nonclaims
-changed from `v1.0.0`.
 
 ## Current Public Identity
 

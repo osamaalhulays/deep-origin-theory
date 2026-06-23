@@ -11,7 +11,7 @@ Primary file:
 SHA-256:
 
 ```text
-9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4
+e8b9ae36665b2f91b17212b2f528c08b82c0ea9d1a369c8ce33073cae4a53354
 ```
 
 Zenodo version DOI:
@@ -25,9 +25,6 @@ Zenodo concept DOI for this reader-edition line:
 ```text
 10.5281/zenodo.20821128
 ```
-
-Version `v1.0.1` corrects the Arabic rendering of the author name to
-`أسامه الهليس`. No scientific content or claim scope changed from `v1.0.0`.
 
 ## Current Front Door
 

@@ -7,8 +7,7 @@
   "legacy_project_concept_doi": "10.5281/zenodo.20542921",
   "git_repository": "https://github.com/osamaalhulays/deep-origin-theory",
   "current_front_door_file": "17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip",
-  "current_front_door_sha256": "9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4",
-  "correction_note": "v1.0.1 corrects the Arabic rendering of the author name to أسامه الهليس; no scientific claims changed from v1.0.0.",
+  "current_front_door_sha256": "e8b9ae36665b2f91b17212b2f528c08b82c0ea9d1a369c8ce33073cae4a53354",
   "scientific_ceiling": {
     "final_cosmic_closure_claimed": false,
     "mond_qumond_family_defeat_claimed": false,
@@ -66,8 +65,8 @@
     },
     {
       "path": "05_PUBLIC_RELEASE_INDEX.md",
-      "bytes": 2514,
-      "sha256": "914043e025f8af00915ed1a960b1f3e0ac024fb7dc121b7c6171c3e9afc06009"
+      "bytes": 2357,
+      "sha256": "eaa9954e4ae9bb3b730f058a54c2ee61445feb4b114d7c58a3c3a8a05582e437"
     },
     {
       "path": "06_CHANGELOG_FROM_RECORD_20779214_TO_DOK1_PREEXECUTION.md",
@@ -116,8 +115,8 @@
     },
     {
       "path": "17_Deep_Origin_Research_Program_Reader_Edition_v1.0.1_20260624.zip",
-      "bytes": 371168,
-      "sha256": "9b6aad9b7abbe5f4984679f78d01613717a7dfc6b0bf75cf38091f510a5fdee4"
+      "bytes": 370671,
+      "sha256": "e8b9ae36665b2f91b17212b2f528c08b82c0ea9d1a369c8ce33073cae4a53354"
     },
     {
       "path": "CITATION.cff",
@@ -146,8 +145,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2800,
-      "sha256": "63f9bf988af21c72e4ea263845fa61f93d7a6e1e69c473ed0359841987339550"
+      "bytes": 2619,
+      "sha256": "40097b5e98ca1a503ea89756b2d43f5d74c17d98e1740d82500831aa5a9e8150"
     },
     {
       "path": "releases/20260622_DOK1_Terminal_PrePrediction_Closure/01_TERMINAL_CLOSURE_NOTE_EN.md",
